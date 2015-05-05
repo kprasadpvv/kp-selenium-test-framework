@@ -1,0 +1,365 @@
+package Results;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.List;
+
+import org.jdom2.Document;
+import org.jdom2.Element;
+import org.jdom2.input.SAXBuilder;
+
+import base.Base;
+
+public class HtmlWriter 
+{
+	ResultXml xml= new ResultXml();
+	FileWriter write;
+	SAXBuilder builder = new SAXBuilder();
+	Document doc;
+	String moduleCollections[]=null,testCaseCollections[]= null,testSenarioCollections[][]=null,tcresult; 
+	int mpass,mfail,mskip,tpass,tfail,tskip,pass,fail,skip;
+	
+	// Create HTML Custom Result File
+	// * Reads Data from XML
+	// * Writes that Data to HTML
+	public String createHtml()
+	{
+		String file=ResultXml.filePath+"output.html";
+		File htmlFile = new File(file);
+		int diffSec=0,diffMin=0,diffhrs=0;
+
+		// **************** Contacting XML ****************** 
+		
+		try
+		{
+			doc=(Document) builder.build(xml.xmlFile);
+			htmlFile.createNewFile();
+			write = new FileWriter(file,true);
+		} catch(Exception e)
+		{ 
+			System.out.println("Unable to contcat XML file to read or create HTML");
+			e.printStackTrace();
+		}
+		
+		Element root = doc.getRootElement();
+		List <Element> modules=root.getChildren("Module");
+
+		
+	//************************ Caliculating the Execution time of the suit *********************	
+		try
+		{
+			String sTime[]=Base.startTime.split(":");
+			String eTime[]=Base.endTime.split(":");
+			
+	    	
+			int starthours=Integer.parseInt(sTime[0]);
+	    	int startMin = Integer.parseInt(sTime[1]);
+	    	int startSec = Integer.parseInt(sTime[2]);
+	    	int endhours=Integer.parseInt(eTime[0]);
+	    	int endMin = Integer.parseInt(eTime[1]);
+	    	int endSec = Integer.parseInt(eTime[2]);
+	    	
+	    	if(startSec<endSec)
+	    	{
+	    		diffSec=endSec-startSec;
+	    	}else
+	    	{
+	    		diffSec=startSec-endSec;
+	    	}
+	    	
+	    	if(startMin<endMin)
+	    	{
+	    		diffMin=endMin-startMin;
+	    		System.out.println("min:" +diffMin);
+	    	}else
+	    	{
+	    		diffMin=startMin-endMin;
+	    	}
+	    	
+	    	if(starthours<endhours)
+	    	{
+	    		diffhrs=endhours-starthours;
+	    	}else
+	    	{
+	    		diffhrs=starthours-endhours;
+	    	}
+			
+		}catch(Exception time)
+		{
+			System.out.println("Time is not being caliculated");
+		}
+		
+	// *******************************************************************************************	
+		
+		
+		try
+		{
+			// Creation of Module level Graph
+			
+			mpass=0;mfail=0;mskip=0;
+			for(Element module: modules)
+			{
+						
+				tpass=0;tfail=0;tskip=0;
+				
+				List <Element> testcases =module.getChildren("Test_Case");
+				
+				for(Element testcase: testcases)
+				{
+					List <Element> testsenarios = testcase.getChildren("Scenario");
+					pass=0;fail=0;skip=0;
+					for(Element testsenario:testsenarios)
+					{
+						if(testsenario.getAttributeValue("Result").equalsIgnoreCase("fail"))
+						{
+							fail++;
+						}
+						else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("pass"))
+						{
+							pass++;
+						}else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("skip"))
+						{
+							skip++;
+						}
+					}
+					
+					if(fail>=1)
+					{
+						tfail++;
+					}else if(skip>=1)
+					{
+						tskip++;
+					}else if(pass>=1)
+					{
+						tpass++;
+					}
+					
+				}
+				
+					if(tfail>=1)
+					{
+						mfail++;
+					}else if(tskip>=1)
+					{
+						mskip++;
+					}else if(tpass>=1)
+					{
+						mpass++;
+					}
+				}
+			
+			//************************* Get the System Properties **********************
+			String user = System.getProperty("user.name");
+			String os = System.getProperty("os.name");
+			String version = System.getProperty("os.version");
+			
+			
+			
+			//************ Writing to HTML STARTS *********************************
+			
+			write.write("<html><head><title>Result Output</title>" +
+					"<link href=\"base.css\" rel=\"stylesheet\" type=\"text/css\"/>"+
+					"<script src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"> </script>"+
+					"<script type=\"text/javascript\" src=\"script.js\" > </script>"+
+					"<script type=\"text/javascript\" src=\"https://www.google.com/jsapi\"></script>"+
+					"<script type=\"text/javascript\">"+
+					"google.load(\"visualization\", \"1\", {packages:[\"corechart\"]});"+
+					"</script>"+
+					"</head>"+
+					"<body onload=\"mdrawChart("+mpass+","+mfail+","+mskip+");\">"+
+					"<div id=\"header\">"+
+					"<div class='logo'><a href='http://zenq.com/'><img src='http://zenq.com/Portals/0/logo.png'/></a></div>"+
+					"<div id='heading'><p>Automated Test cases Summary</p></div>"+
+					"<div id='timeregion'><p id='time'>Execution Started at: "+Base.startTime+" "+java.util.TimeZone.getDefault().getDisplayName()+
+					"</br>Suit Execution Time: ");
+					if(diffhrs>0)
+					{
+						write.write(diffhrs+"hrs :");
+					}
+					if(diffMin>0)
+					{
+						write.write(diffMin+"mins :");
+					}
+					
+					write.write(diffSec+"sec"+
+					"</p><p>User: "+user+" on "+os+" "+version+"</p></div>"+
+					"</div>"+
+					"<div id=\"menu\">"); 
+
+			
+			
+			write.append("<p id=\"overview\"><a href=\"#\" onclick=\"mdrawChart("+mpass+","+mfail+","+mskip+");\"> Overview </a></p>" +
+					"<p id=\"load_log\"><a href=\"#\"> Log File </a></p>");	
+			
+			write.append("<div class='listelements'><list>");
+			
+			// Creation of TestCase level Graph
+			
+		for(Element module: modules)
+		{
+					
+			tpass=0;tfail=0;tskip=0;
+			
+			List <Element> testcases =module.getChildren("Test_Case");
+			
+			for(Element testcase: testcases)
+			{
+				List <Element> testsenarios = testcase.getChildren("Scenario");
+				pass=0;fail=0;skip=0;
+				for(Element testsenario:testsenarios)
+				{
+					if(testsenario.getAttributeValue("Result").equalsIgnoreCase("fail"))
+					{
+						fail++;
+					}
+					else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("pass"))
+					{
+						pass++;
+					}else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("skip"))
+					{
+						skip++;
+					}
+				}
+				
+				if(fail>=1)
+				{
+					tfail++;
+				}else if(skip>=1)
+				{
+					tskip++;
+				}else if(pass>=1)
+				{
+					tpass++;
+				}
+				
+			}
+			
+			write.append("<li class=\"modules\"><a href=\"#\" onclick=\"drawChart("+tpass+","+tfail+","+tskip+");\"> " + module.getAttributeValue("Module")+" </a></li>");
+		}
+			write.append("</list></div></div>" +
+					"<div id='displaypane'><div id='mpiechart'></div><div id='tpiechart'></div><div id='logPane'></div>");
+			
+		//	int i=0;
+			
+	// Writing TestCase result to a table
+			
+		for(Element module : modules)
+		{
+			//i++;
+			List <Element> testcases =module.getChildren("Test_Case");
+			
+			System.out.println("No of Test Cases: "+testcases.size());
+						
+			try
+			{
+				write.append(" <div id=\"" +
+						module.getAttributeValue("Module") );
+				
+				
+				/* write.append("\" class=\"tctable active\">" +
+						"<table id=\"testcase\"><tr><th> Test case </th><th> Result </th>"+"<th> Screens </th>");*/
+				
+					write.append("\" class=\"tctable\">" +
+							"<table id=\"testcase\"><tr><th> Test case </th><th> Result </th>"+"<th> Screens </th>");
+				
+				for(Element testcase: testcases)
+				{
+					fail=0;pass=0;skip=0;
+					List <Element> testsenarios = testcase.getChildren("Scenario");
+					
+					for(Element testsenario:testsenarios)
+					{
+						if(testsenario.getAttributeValue("Result").equalsIgnoreCase("fail"))
+						{
+							fail++;
+						}
+						else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("pass"))
+						{
+							pass++;
+						}else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("skip"))
+						{
+							skip++;
+						}
+					}
+										
+					write.append("<tr><td class=\"tc\" name=\""+module.getAttributeValue("Module")+"\"><a href=\"\">"+testcase.getAttributeValue("Name")+"</a></td>");
+					if(skip>=1)
+					{
+						write.append("<td id=\"skip\">Skip</td><td>screenshot</td></tr>");
+					}else if(fail>=1)
+					{
+						write.append("<td id=\"fail\">Fail</td><td>screenshot</td></tr>");
+					}else
+					{
+						write.append("<td id=\"pass\">Pass</td><td>screenshot</td></tr>");
+					}
+					
+				}
+				write.append("</table></div>");
+			} catch(Exception e)
+			{
+				e.printStackTrace();
+			}
+		}
+		write.append("</div>");
+		
+		
+// Writing Test scenarios to a table
+		
+		for(Element module : modules)
+		{
+			List <Element> testcases =module.getChildren("Test_Case");
+
+			for(Element testcase: testcases)
+			{
+				List <Element> testsenarios = testcase.getChildren("Scenario");
+				
+				try 
+				{
+					write.append("<div class=\"testsenarios\" id=\""
+							+module.getAttributeValue("Module")+testcase.getAttributeValue("Name")+
+							"\">" +"<div class=\"close\" name=\"display\"> <a href=\"#\">close </a></div><div class='senario'>"+
+							"<table id=\"senario\"><tr><th> Test Senario </th><th> Result </th>"+
+							"<th> Screens </th>");
+
+					for(Element testsenario:testsenarios)
+					{
+										
+						write.append("<tr id=senario><td>"+testsenario.getAttributeValue("ScenarioDescription"));
+
+						if(testsenario.getAttributeValue("Result").equalsIgnoreCase("pass"))
+						{
+							write.append("</td><td id=\"pass\">"+testsenario.getAttributeValue("Result")+"</td><td><a class='screens' href='#' path='"+testsenario.getAttributeValue("ScreenPath")+"'> View screen </td></tr>");
+						}else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("fail"))
+						{
+							write.append("</td><td id=\"fail\">"+testsenario.getAttributeValue("Result")+"</td><td><a class='screens' href='#' path='"+testsenario.getAttributeValue("ScreenPath")+"' >View screen </td></tr>");
+						}else if(testsenario.getAttributeValue("Result").equalsIgnoreCase("skip"))
+						{
+							write.append("</td><td id=\"skip\">"+testsenario.getAttributeValue("Result")+"</td><td><a class='screens' href='#' path='"+testsenario.getAttributeValue("ScreenPath")+"' > View screen </td></tr>");
+						}
+
+					}
+					write.append("</table></div></div>");
+					
+				}
+				catch(Exception e)
+				{
+					e.printStackTrace();
+				}
+				
+				
+			}
+
+		}
+		
+			write.append("<div id=\"fade\"></div><div id='imageviewer'></div><div id='imagefade'></div></body></html>");
+			write.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return file;
+	}
+	
+
+}

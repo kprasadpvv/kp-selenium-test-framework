@@ -1,0 +1,22 @@
+<h2>Methods run, sorted chronologically</h2><h3>&gt;&gt; means before, &lt;&lt; means after</h3><p/><br/><em>Suite1</em><p/><small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table border="1">
+<tr><th>Time</th><th>Delta (ms)</th><th>Suite<br>configuration</th><th>Test<br>configuration</th><th>Class<br>configuration</th><th>Groups<br>configuration</th><th>Method<br>configuration</th><th>Test<br>method</th><th>Thread</th><th>Instances</th></tr>
+<tr bgcolor="b162ff">  <td>14/09/11 15:57:12</td>   <td>0</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&lt;&lt;FamilyFactsGuest.clearcookies()[pri:0, instance:testCases.FamilyFactsGuest@181c87]">&lt;&lt;clearcookies</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="e28099">  <td>14/09/11 15:58:08</td>   <td>55366</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&lt;&lt;FamilyFactsRegistered.clearcookies()[pri:0, instance:testCases.FamilyFactsRegistered@11e8050]">&lt;&lt;clearcookies</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="a4917d">  <td>14/09/11 15:55:31</td>   <td>-101516</td> <td title="&gt;&gt;Base.clearlogs(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.FamilyFactsRegistered@11e8050]">&gt;&gt;clearlogs</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="b162ff">  <td>14/09/11 15:55:42</td>   <td>-90131</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="FamilyFactsGuest.module1tc1()[pri:0, instance:testCases.FamilyFactsGuest@181c87]">module1tc1</td> 
+  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="b162ff">  <td>14/09/11 15:56:54</td>   <td>-18476</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="FamilyFactsGuest.module1tc2()[pri:0, instance:testCases.FamilyFactsGuest@181c87]">module1tc2</td> 
+  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="e28099">  <td>14/09/11 15:57:15</td>   <td>2549</td> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td title="FamilyFactsRegistered.module2tc1()[pri:0, instance:testCases.FamilyFactsRegistered@11e8050]">module2tc1</td> 
+  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="b162ff">  <td>14/09/11 15:55:42</td>   <td>-90169</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&gt;&gt;FamilyFactsGuest.scripExecuterIntializer()[pri:0, instance:testCases.FamilyFactsGuest@181c87]">&gt;&gt;scripExecuterIntializer</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="e28099">  <td>14/09/11 15:57:15</td>   <td>2549</td> <td>&nbsp;</td><td>&nbsp;</td><td title="&gt;&gt;FamilyFactsRegistered.scripExecuterIntializer()[pri:0, instance:testCases.FamilyFactsRegistered@11e8050]">&gt;&gt;scripExecuterIntializer</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@16828504</td>   <td></td> </tr>
+<tr bgcolor="a4917d">  <td>14/09/11 15:58:23</td>   <td>70439</td> <td title="&lt;&lt;Base.writeResult()[pri:0, instance:testCases.FamilyFactsRegistered@11e8050]">&lt;&lt;writeResult</td> 
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>  <td>main@16828504</td>   <td></td> </tr>
+</table>

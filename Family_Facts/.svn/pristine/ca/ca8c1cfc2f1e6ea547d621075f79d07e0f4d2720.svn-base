@@ -1,0 +1,2358 @@
+
+ [INFO] 2014:08:08 18:38:39  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:08 18:38:39  base.Base.TC1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:09 14:33:09  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:09 14:33:09  base.Base.TC1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:10 10:50:14  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:10 10:50:14  base.Base.TC1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:11 17:30:12  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:11 17:30:13  base.Base.TC1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:11 17:44:31  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:11 17:44:31  base.Base.TC1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:11 20:06:27  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:11 20:06:27  base.Base.TC1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:18 15:00:24  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:18 15:00:25  base.Base.tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:19 17:47:04  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:19 17:47:04  base.Base.tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:19 17:59:08  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:19 17:59:08  base.Base.tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:19 18:06:01  base.Base.launchbro(Base.java:47) :  Browser Launch
+
+
+ [INFO] 2014:08:19 18:06:01  base.Base.tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:20 16:21:53  base.Base.launchbro(Base.java:51) :  Browser Launch
+
+
+ [INFO] 2014:08:20 16:21:53  base.Base.tc1(Base.java:66) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:20 17:37:19  base.Base.launchbro(Base.java:51) :  Browser Launch
+
+
+ [INFO] 2014:08:20 17:37:19  base.Base.tc1(Base.java:66) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:20 17:54:59  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:20 17:54:59  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:20 17:58:15  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:20 17:58:15  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 11:00:21  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 11:00:22  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 11:30:15  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 11:30:15  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 11:33:34  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 11:33:34  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 11:37:27  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 11:37:27  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 11:39:15  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 11:39:15  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 12:17:19  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 12:17:19  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 12:18:38  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 12:18:38  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 12:20:45  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:08:26 12:20:46  base.Base.tc1(Base.java:69) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 12:40:27  base.Base.launchbro(Base.java:56) :  Browser Launch
+
+
+ [INFO] 2014:08:26 12:40:27  base.Base.tc1(Base.java:71) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 12:42:18  base.Base.launchbro(Base.java:56) :  Browser Launch
+
+
+ [INFO] 2014:08:26 12:42:18  base.Base.tc1(Base.java:71) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 12:43:42  base.Base.launchbro(Base.java:56) :  Browser Launch
+
+
+ [INFO] 2014:08:26 12:43:42  base.Base.tc1(Base.java:71) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 13:00:55  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 13:00:55  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 14:47:59  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 14:47:59  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 14:48:43  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 14:48:43  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 14:55:30  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 14:55:30  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:02:12  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:02:12  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:02:21  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:02:21  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:02:21  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:02:21  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:02:21  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:02:21  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:02:24  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:12:38  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:12:38  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:12:47  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:12:47  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:12:47  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:12:48  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:12:48  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:12:48  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:12:51  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:14:31  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:14:31  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:14:44  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:14:48  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:14:52  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:14:56  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:15:00  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:15:04  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:15:11  keyWords.Keywords.highlightElement(Keywords.java:421) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:19:28  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:19:28  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:19:36  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:19:38  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:19:39  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:19:41  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:19:42  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:19:44  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:19:46  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:19:47  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:19:49  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:19:50  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:19:55  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:19:56  keyWords.Keywords.highlightElement(Keywords.java:429) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:22:15  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:22:15  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:22:32  keyWords.Keywords.highlightElement(Keywords.java:430) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:22:33  keyWords.Keywords.highlightElement(Keywords.java:430) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:22:34  keyWords.Keywords.highlightElement(Keywords.java:430) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:22:34  keyWords.Keywords.highlightElement(Keywords.java:430) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:22:35  keyWords.Keywords.highlightElement(Keywords.java:430) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:22:36  keyWords.Keywords.highlightElement(Keywords.java:430) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:22:39  keyWords.Keywords.highlightElement(Keywords.java:430) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:26:54  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:26:54  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:27:04  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:27:04  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:27:05  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:27:06  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:27:06  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:27:07  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:27:12  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:30:49  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:30:49  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:30:59  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:30:59  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:31:00  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:31:01  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:31:01  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:31:02  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:31:06  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:36:35  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:36:35  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:36:47  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:36:48  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:36:48  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:36:50  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:36:51  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:36:51  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:36:56  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 15:41:15  base.Base.launchbro(Base.java:48) :  Browser Launch
+
+
+ [INFO] 2014:08:26 15:41:15  base.Base.tc1(Base.java:63) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 15:41:31  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 15:41:31  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 15:41:32  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 15:41:33  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 15:41:34  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 15:41:34  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 15:41:38  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 16:01:05  base.Base.launchbro(Base.java:49) :  Browser Launch
+
+
+ [INFO] 2014:08:26 16:01:05  base.Base.tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 16:01:25  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 16:01:26  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 16:01:27  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 16:01:28  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 16:01:28  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 16:01:29  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 16:01:32  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 16:01:38  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:26 16:01:39  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 16:01:44  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:26 16:55:07  base.Base.launchbro(Base.java:49) :  Browser Launch
+
+
+ [INFO] 2014:08:26 16:55:07  base.Base.tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 16:55:14  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 16:55:15  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 16:55:16  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 16:55:16  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 16:55:17  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 16:55:18  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 16:55:21  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 16:55:24  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:26 16:55:25  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 16:55:31  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:26 17:45:47  base.Base.launchbro(Base.java:49) :  Browser Launch
+
+
+ [INFO] 2014:08:26 17:45:47  base.Base.module1tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 17:45:56  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 17:45:57  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 17:45:57  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 17:45:58  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 17:45:59  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 17:45:59  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 17:46:17  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 17:46:20  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:26 17:46:21  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 17:46:27  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:26 17:50:53  base.Base.launchbro(Base.java:49) :  Browser Launch
+
+
+ [INFO] 2014:08:26 17:51:00  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:08:26 17:51:02  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:08:26 17:51:03  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:08:26 17:51:04  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:08:26 17:51:12  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:08:26 17:51:13  base.Base.module1tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 17:51:29  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 17:51:30  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 17:51:30  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 17:51:31  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 17:52:06  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:26 17:52:06  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 17:52:13  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:26 17:55:08  base.Base.launchbro(Base.java:49) :  Browser Launch
+
+
+ [INFO] 2014:08:26 17:55:08  base.Base.module1tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 17:55:15  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 17:55:16  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 17:55:17  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 17:55:18  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 17:55:18  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 17:55:19  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 17:55:23  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 17:55:25  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:26 17:55:26  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 17:55:31  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:26 17:55:34  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:08:26 17:55:36  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:08:26 17:55:37  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:08:26 17:55:37  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:08:26 17:55:46  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:08:26 18:01:46  base.Base.launchbro(Base.java:49) :  Browser Launch
+
+
+ [INFO] 2014:08:26 18:01:46  base.Base.module1tc1(Base.java:62) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:26 18:01:57  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:26 18:01:57  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:26 18:01:58  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 18:01:59  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:26 18:01:59  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:26 18:02:00  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:26 18:02:04  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:26 18:02:26  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:26 18:02:28  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:26 18:02:33  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:26 18:02:40  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:08:26 18:02:42  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:08:26 18:02:42  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:08:26 18:02:43  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:08:26 18:02:50  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:08:27 14:38:58  base.Base.launchbro(Unknown Source) :  Browser Launch
+
+
+ [INFO] 2014:08:27 14:38:58  base.Base.module1tc1(Unknown Source) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:27 14:39:12  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:27 14:39:13  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:27 14:39:13  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:27 14:39:14  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:27 14:39:15  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:27 14:39:16  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:27 14:39:20  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:27 14:39:34  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:27 14:39:35  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:27 14:39:44  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:27 14:39:47  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:08:27 14:39:49  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:08:27 14:39:49  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:08:27 14:39:50  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:08:27 14:40:03  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:08:27 15:27:03  base.Base.launchbro(Unknown Source) :  Browser Launch
+
+
+ [INFO] 2014:08:27 15:27:03  base.Base.module1tc1(Unknown Source) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:08:27 15:27:16  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:08:27 15:27:17  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:08:27 15:27:18  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:27 15:27:19  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:08:27 15:27:19  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:08:27 15:27:20  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:08:27 15:27:25  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:08:27 15:27:28  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:08:27 15:27:29  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:08:27 15:27:36  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:08:27 15:27:40  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:08:27 15:27:42  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:08:27 15:27:43  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:08:27 15:27:43  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:08:27 15:27:52  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:01 14:42:09  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:43:09  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:43:32  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:46:57  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:48:36  base.Base.clearlogs(Base.java:38) :  Start Time:14:48:36
+
+
+ [INFO] 2014:09:01 14:48:36  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:52:03  base.Base.clearlogs(Base.java:38) :  Start Time:14:52:03
+
+
+ [INFO] 2014:09:01 14:52:03  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:55:35  base.Base.clearlogs(Base.java:38) :  Start Time:14:55:35
+
+
+ [INFO] 2014:09:01 14:55:44  base.Base.launchbro(Base.java:50) :  Browser Launch
+
+
+ [INFO] 2014:09:01 14:55:44  base.Base.tc(Base.java:61) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 14:55:51  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:58:17  base.Base.clearlogs(Base.java:38) :  Start Time:14:58:17
+
+
+ [INFO] 2014:09:01 14:58:22  base.Base.launchbro(Base.java:50) :  Browser Launch
+
+
+ [INFO] 2014:09:01 14:58:22  base.Base.tc(Base.java:61) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 14:58:22  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 14:59:13  base.Base.clearlogs(Base.java:38) :  Start Time:14:59:13
+
+
+ [INFO] 2014:09:01 14:59:18  base.Base.clearlogs(Base.java:50) :  Browser Launch
+
+
+ [INFO] 2014:09:01 14:59:18  base.Base.tc(Base.java:61) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 14:59:18  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 15:46:51  base.Base.clearlogs(Base.java:38) :  Start Time:15:46:51
+
+
+ [INFO] 2014:09:01 15:46:51  base.Base.tc(Base.java:61) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 15:46:51  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 15:48:02  base.Base.clearlogs(Base.java:38) :  Start Time:15:48:02
+
+
+ [INFO] 2014:09:01 15:48:08  base.Base.launchbro(Base.java:50) :  Browser Launch
+
+
+ [INFO] 2014:09:01 15:48:08  base.Base.tc(Base.java:61) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 15:48:08  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:18) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 16:36:25  base.Base.clearlogs(Base.java:38) :  Start Time:16:36:25
+
+
+ [INFO] 2014:09:01 16:36:31  base.Base.launchbro(Base.java:52) :  Browser Launch
+
+
+ [INFO] 2014:09:01 16:36:31  base.Base.tc(Base.java:69) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 16:36:31  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 16:38:14  base.Base.clearlogs(Base.java:38) :  Start Time:16:38:14
+
+
+ [INFO] 2014:09:01 16:38:19  base.Base.launchbro(Base.java:52) :  Browser Launch
+
+
+ [INFO] 2014:09:01 16:38:19  base.Base.tc(Base.java:70) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 16:38:19  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 16:51:07  base.Base.clearlogs(Base.java:38) :  Start Time:16:51:07
+
+
+ [INFO] 2014:09:01 16:51:07  base.Base.launchbro(Base.java:52) :  Browser Launch
+
+
+ [INFO] 2014:09:01 16:51:20  base.Base.tc(Base.java:75) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 16:51:20  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 16:51:28  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:01 16:51:29  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:01 16:51:29  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:01 16:51:30  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:01 16:51:31  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:01 16:51:32  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:01 16:51:35  keyWords.Keywords.highlightElement(Keywords.java:431) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:01 16:53:10  base.Base.clearlogs(Base.java:38) :  Start Time:16:53:10
+
+
+ [INFO] 2014:09:01 16:53:16  base.Base.launchbro(Base.java:52) :  Browser Launch
+
+
+ [INFO] 2014:09:01 16:53:16  base.Base.tc(Base.java:74) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 16:53:16  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 17:04:17  base.Base.clearlogs(Base.java:38) :  Start Time:17:04:17
+
+
+ [INFO] 2014:09:01 17:04:22  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 17:04:22  base.Base.tc(Base.java:76) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 17:04:22  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 17:05:39  base.Base.clearlogs(Base.java:38) :  Start Time:17:05:39
+
+
+ [INFO] 2014:09:01 17:05:44  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 17:05:44  base.Base.tc(Base.java:76) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 17:05:44  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 17:12:15  base.Base.clearlogs(Base.java:38) :  Start Time:17:12:15
+
+
+ [INFO] 2014:09:01 17:12:20  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 17:12:20  base.Base.tc(Base.java:76) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 17:12:20  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 17:17:51  base.Base.clearlogs(Base.java:38) :  Start Time:17:17:51
+
+
+ [INFO] 2014:09:01 17:17:57  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 17:17:57  base.Base.tc(Base.java:76) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 17:17:57  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 17:17:57  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: null
+
+
+ [INFO] 2014:09:01 18:11:20  base.Base.clearlogs(Base.java:38) :  Start Time:18:11:20
+
+
+ [INFO] 2014:09:01 18:11:26  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 18:11:26  base.Base.tc(Base.java:76) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 18:11:26  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 18:11:26  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: null
+
+
+ [INFO] 2014:09:01 18:12:32  base.Base.getDriver(Base.java:70) :  Driver value in Base:null
+
+
+ [INFO] 2014:09:01 18:12:32  base.Base.clearlogs(Base.java:38) :  Start Time:18:12:32
+
+
+ [INFO] 2014:09:01 18:12:37  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 18:12:37  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (8bd7bb8f-2b0e-4ef4-bf21-7af5cd56c2ed)
+
+
+ [INFO] 2014:09:01 18:12:37  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (8bd7bb8f-2b0e-4ef4-bf21-7af5cd56c2ed)
+
+
+ [INFO] 2014:09:01 18:12:37  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 18:12:37  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 18:12:38  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: null
+
+
+ [INFO] 2014:09:01 18:13:35  base.Base.getDriver(Base.java:70) :  Driver value in Base:null
+
+
+ [INFO] 2014:09:01 18:13:36  base.Base.clearlogs(Base.java:38) :  Start Time:18:13:36
+
+
+ [INFO] 2014:09:01 18:13:41  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 18:13:41  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (76e92337-b074-40d6-b906-5547108ca269)
+
+
+ [INFO] 2014:09:01 18:13:41  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (76e92337-b074-40d6-b906-5547108ca269)
+
+
+ [INFO] 2014:09:01 18:13:41  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 18:13:41  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 18:13:41  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: null
+
+
+ [INFO] 2014:09:01 18:15:48  base.Base.getDriver(Base.java:70) :  Driver value in Base:null
+
+
+ [INFO] 2014:09:01 18:18:03  base.Base.getDriver(Base.java:70) :  Driver value in Base:null
+
+
+ [INFO] 2014:09:01 18:21:28  base.Base.getDriver(Base.java:70) :  Driver value in Base:null
+
+
+ [INFO] 2014:09:01 18:21:28  base.Base.clearlogs(Base.java:38) :  Start Time:18:21:28
+
+
+ [INFO] 2014:09:01 18:21:34  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:01 18:21:34  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:01 18:21:34  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:01 18:21:34  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: null
+
+
+ [INFO] 2014:09:01 18:22:12  base.Base.getDriver(Base.java:70) :  Driver value in Base:null
+
+
+ [INFO] 2014:09:02 14:16:42  base.Base.getDriver(Base.java:70) :  Driver value in Base:null
+
+
+ [INFO] 2014:09:02 14:16:43  base.Base.clearlogs(Base.java:38) :  Start Time:14:16:43
+
+
+ [INFO] 2014:09:02 14:17:06  base.Base.launchbro(Base.java:54) :  Browser Launch
+
+
+ [INFO] 2014:09:02 14:17:06  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (a5a413a3-01a5-4bf2-bded-5c12c02edb4b)
+
+
+ [INFO] 2014:09:02 14:17:06  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (a5a413a3-01a5-4bf2-bded-5c12c02edb4b)
+
+
+ [INFO] 2014:09:02 14:17:06  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:17:06  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:17:06  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: null
+
+
+ [INFO] 2014:09:02 14:18:25  base.Base.clearlogs(Base.java:38) :  Start Time:14:18:25
+
+
+ [INFO] 2014:09:02 14:18:30  base.Base.getDriver(Base.java:73) :  Driver value in Base:FirefoxDriver: firefox on XP (73ae64f8-53f0-4671-a6a3-75118f342a14)
+
+
+ [INFO] 2014:09:02 14:18:30  base.Base.getDriver(Base.java:73) :  Driver value in Base:FirefoxDriver: firefox on XP (73ae64f8-53f0-4671-a6a3-75118f342a14)
+
+
+ [INFO] 2014:09:02 14:18:30  base.Base.launchbro(Base.java:57) :  Browser Launch
+
+
+ [INFO] 2014:09:02 14:18:30  base.Base.getDriver(Base.java:73) :  Driver value in Base:FirefoxDriver: firefox on XP (73ae64f8-53f0-4671-a6a3-75118f342a14)
+
+
+ [INFO] 2014:09:02 14:18:30  base.Base.tc(Base.java:80) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:18:30  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:22:58  base.Base.clearlogs(Base.java:38) :  Start Time:14:22:58
+
+
+ [INFO] 2014:09:02 14:24:57  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (b8c9e4d9-3f13-40ca-9c7e-c049952eb691)
+
+
+ [INFO] 2014:09:02 14:27:35  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (b8c9e4d9-3f13-40ca-9c7e-c049952eb691)
+
+
+ [INFO] 2014:09:02 14:32:05  base.Base.launchbro(Base.java:56) :  Browser Launch
+
+
+ [INFO] 2014:09:02 14:33:04  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (b8c9e4d9-3f13-40ca-9c7e-c049952eb691)
+
+
+ [INFO] 2014:09:02 14:34:59  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:34:59  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:36:54  base.Base.clearlogs(Base.java:38) :  Start Time:14:36:54
+
+
+ [INFO] 2014:09:02 14:37:07  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (f3097148-514c-46b3-939f-be9ea5e7b8cb)
+
+
+ [INFO] 2014:09:02 14:37:07  base.Base.launchbro(Base.java:56) :  Browser Launch
+
+
+ [INFO] 2014:09:02 14:37:07  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:37:07  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:38:00  base.Base.scripExecuter(Base.java:64) :  Script value in Base:null
+
+
+ [INFO] 2014:09:02 14:38:00  base.Base.clearlogs(Base.java:38) :  Start Time:14:38:00
+
+
+ [INFO] 2014:09:02 14:38:10  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (778f3974-4cb3-449b-bc83-ae94a14e544a)
+
+
+ [INFO] 2014:09:02 14:38:10  base.Base.launchbro(Base.java:56) :  Browser Launch
+
+
+ [INFO] 2014:09:02 14:38:10  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:38:10  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:39:40  base.Base.scripExecuter(Base.java:64) :  Script value in Base:null
+
+
+ [INFO] 2014:09:02 14:39:40  base.Base.clearlogs(Base.java:38) :  Start Time:14:39:40
+
+
+ [INFO] 2014:09:02 14:39:48  base.Base.getDriver(Base.java:70) :  Driver value in Base:FirefoxDriver: firefox on XP (ddde2bd3-f4fa-4ecb-bacd-1bf4ec6fbe74)
+
+
+ [INFO] 2014:09:02 14:39:48  base.Base.launchbro(Base.java:56) :  Browser Launch
+
+
+ [INFO] 2014:09:02 14:39:48  base.Base.tc(Base.java:77) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:39:48  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:40:57  base.Base.scripExecuter(Base.java:38) :  Script value in Base:null
+
+
+ [INFO] 2014:09:02 14:40:57  base.Base.clearlogs(Base.java:53) :  Start Time:14:40:57
+
+
+ [INFO] 2014:09:02 14:41:03  base.Base.getDriver(Base.java:44) :  Driver value in Base:FirefoxDriver: firefox on XP (9e24cf0f-9b45-43c9-b652-c3da68461847)
+
+
+ [INFO] 2014:09:02 14:41:03  base.Base.launchbro(Base.java:71) :  Browser Launch
+
+
+ [INFO] 2014:09:02 14:41:03  base.Base.tc(Base.java:81) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:41:03  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:42:16  base.Base.scripExecuter(Base.java:38) :  Script value in Base:null
+
+
+ [INFO] 2014:09:02 14:42:16  base.Base.clearlogs(Base.java:53) :  Start Time:14:42:16
+
+
+ [INFO] 2014:09:02 14:42:24  base.Base.getDriver(Base.java:44) :  Driver value in Base:FirefoxDriver: firefox on XP (733d7de6-7d88-4c76-84ec-e9885e762817)
+
+
+ [INFO] 2014:09:02 14:42:24  base.Base.tc(Base.java:81) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:42:24  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:43:39  base.Base.clearlogs(Base.java:54) :  Start Time:14:43:39
+
+
+ [INFO] 2014:09:02 14:43:51  base.Base.tc(Base.java:82) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:43:51  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:45:12  base.Base.scripExecuter(Base.java:38) :  Script value in Base:null
+
+
+ [INFO] 2014:09:02 14:45:12  base.Base.clearlogs(Base.java:53) :  Start Time:14:45:12
+
+
+ [INFO] 2014:09:02 14:45:18  base.Base.getDriver(Base.java:44) :  Driver value in Base:FirefoxDriver: firefox on XP (5a4a97be-1f6e-4941-8511-2db16fe0f86f)
+
+
+ [INFO] 2014:09:02 14:45:18  base.Base.tc(Base.java:81) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:45:18  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:56:38  base.Base.scripExecuter(Base.java:38) :  Script value in Base:null
+
+
+ [INFO] 2014:09:02 14:56:38  base.Base.clearlogs(Base.java:53) :  Start Time:14:56:38
+
+
+ [INFO] 2014:09:02 14:56:56  base.Base.getDriver(Base.java:44) :  Driver value in Base:FirefoxDriver: firefox on XP (e9a2d0e8-2bb0-4dc0-82ef-a57588c9ab36)
+
+
+ [INFO] 2014:09:02 14:56:56  base.Base.tc(Base.java:81) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 14:56:56  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 14:59:55  base.Base.scripExecuter(Base.java:38) :  Script value in Base:null
+
+
+ [INFO] 2014:09:02 14:59:55  base.Base.clearlogs(Base.java:53) :  Start Time:14:59:55
+
+
+ [INFO] 2014:09:02 15:00:03  base.Base.getDriver(Base.java:44) :  Driver value in Base:FirefoxDriver: firefox on XP (8f51b55f-c3b1-41d5-839b-102f501a61a0)
+
+
+ [INFO] 2014:09:02 15:00:03  base.Base.tc(Base.java:81) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:00:03  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:19) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:06:22  base.Base.clearlogs(Base.java:53) :  Start Time:15:06:22
+
+
+ [INFO] 2014:09:02 15:06:31  base.Base.getDriver(Base.java:44) :  Driver value in Base:FirefoxDriver: firefox on XP (381ac4c6-17ae-4711-8e6f-436908f0716c)
+
+
+ [INFO] 2014:09:02 15:06:31  base.Base.tc(Base.java:81) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:06:31  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:24) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:07:58  base.Base.clearlogs(Base.java:53) :  Start Time:15:07:58
+
+
+ [INFO] 2014:09:02 15:08:05  base.Base.getDriver(Base.java:44) :  Driver value in Base:FirefoxDriver: firefox on XP (a7bda45a-f3ec-4508-a1ab-9155975833c7)
+
+
+ [INFO] 2014:09:02 15:08:05  base.Base.scripExecuter(Base.java:38) :  Script value in Base:keyWords.ScriptExecuter@92c979
+
+
+ [INFO] 2014:09:02 15:08:05  base.Base.tc(Base.java:81) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:08:05  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:08:05  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (a7bda45a-f3ec-4508-a1ab-9155975833c7)
+
+
+ [INFO] 2014:09:02 15:08:13  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 15:08:13  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 15:08:14  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:08:15  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 15:08:16  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 15:08:16  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 15:08:20  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 15:12:02  base.Base.clearlogs(Base.java:43) :  Start Time:15:12:02
+
+
+ [INFO] 2014:09:02 15:12:09  base.Base.tc(Base.java:62) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:12:09  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:15:47  base.Base.clearlogs(Base.java:43) :  Start Time:15:15:47
+
+
+ [INFO] 2014:09:02 15:15:53  base.Base.tc(Base.java:62) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:15:53  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:17:05  base.Base.clearlogs(Base.java:43) :  Start Time:15:17:05
+
+
+ [INFO] 2014:09:02 15:17:11  base.Base.tc(Base.java:62) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:17:11  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:18:06  base.Base.clearlogs(Base.java:43) :  Start Time:15:18:06
+
+
+ [INFO] 2014:09:02 15:18:12  base.Base.tc(Base.java:62) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:18:12  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:18:12  base.Base.writeResult(Base.java:98) :  In After Suit
+
+
+ [INFO] 2014:09:02 15:20:26  base.Base.clearlogs(Base.java:47) :  Start Time:15:20:26
+
+
+ [INFO] 2014:09:02 15:20:26  base.Base.tc(Base.java:71) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:20:26  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:21:18  base.Base.clearlogs(Base.java:47) :  Start Time:15:21:18
+
+
+ [INFO] 2014:09:02 15:21:23  base.Base.tc(Base.java:74) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:21:23  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:21:24  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (5146f4f1-9f2c-4f7a-82b9-c4fe83feffec)
+
+
+ [INFO] 2014:09:02 15:21:32  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 15:21:33  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 15:21:33  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:21:34  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 15:21:35  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 15:21:35  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 15:21:39  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 15:21:57  base.Base.clearlogs(Base.java:47) :  Start Time:15:21:57
+
+
+ [INFO] 2014:09:02 15:22:02  base.Base.tc(Base.java:74) :  Base Class Initiate
+
+
+ [INFO] 2014:09:02 15:22:02  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:22:02  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (a884418e-a3b1-47d4-87ce-4fe3c0514419)
+
+
+ [INFO] 2014:09:02 15:22:10  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 15:22:11  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 15:22:12  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:22:12  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 15:22:13  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 15:22:14  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 15:22:17  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 15:27:35  base.Base.clearlogs(Base.java:41) :  Start Time:15:27:35
+
+
+ [INFO] 2014:09:02 15:27:40  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:25) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:27:40  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:36) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 15:29:24  base.Base.clearlogs(Base.java:41) :  Start Time:15:29:24
+
+
+ [INFO] 2014:09:02 15:29:29  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:26) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:29:29  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (6a02600f-6a57-4b72-a478-85f8e2fc32aa)
+
+
+ [INFO] 2014:09:02 15:29:38  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 15:29:39  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 15:29:40  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:29:41  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 15:29:41  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 15:29:42  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 15:29:46  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 15:29:46  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (6a02600f-6a57-4b72-a478-85f8e2fc32aa)
+
+
+ [INFO] 2014:09:02 15:29:59  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 15:30:00  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:30:10  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 15:30:11  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:37) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 15:34:27  base.Base.clearlogs(Base.java:41) :  Start Time:15:34:27
+
+
+ [INFO] 2014:09:02 15:34:32  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:32) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:34:32  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (14ffec85-43f1-4f1a-a610-032270c1f607)
+
+
+ [INFO] 2014:09:02 15:34:40  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 15:34:41  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 15:34:42  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:34:42  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 15:34:43  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 15:34:44  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 15:34:47  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 15:34:48  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (14ffec85-43f1-4f1a-a610-032270c1f607)
+
+
+ [INFO] 2014:09:02 15:35:00  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 15:35:00  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:35:07  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 15:35:08  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:43) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 15:35:54  base.Base.clearlogs(Base.java:42) :  Start Time:15:35:54
+
+
+ [INFO] 2014:09:02 15:35:59  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:28) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:35:59  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (17a0878d-a5b5-44ac-9e30-babbd76f4cf9)
+
+
+ [INFO] 2014:09:02 15:36:06  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 15:36:07  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 15:36:08  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:36:09  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 15:37:32  base.Base.clearlogs(Base.java:41) :  Start Time:15:37:32
+
+
+ [INFO] 2014:09:02 15:37:37  testCases.FamilyFactsGuest.b4class(FamilyFactsGuest.java:21) :  B4 class
+
+
+ [INFO] 2014:09:02 15:37:37  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:32) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:37:38  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (d573ade3-8150-462f-9d64-cdcb35116a03)
+
+
+ [INFO] 2014:09:02 15:38:33  base.Base.clearlogs(Base.java:41) :  Start Time:15:38:33
+
+
+ [INFO] 2014:09:02 15:38:40  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1
+
+
+ [INFO] 2014:09:02 15:38:40  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (3698dcd5-9166-4828-a37b-35da44388c37)
+
+
+ [INFO] 2014:09:02 15:38:48  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 15:38:48  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 15:38:49  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:38:50  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 15:38:51  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 15:38:51  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 15:38:55  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 15:38:56  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (3698dcd5-9166-4828-a37b-35da44388c37)
+
+
+ [INFO] 2014:09:02 15:39:07  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 15:39:09  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 15:39:15  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 15:39:16  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:38) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 15:54:15  base.Base.clearlogs(Base.java:41) :  Start Time:15:54:15
+
+
+ [INFO] 2014:09:02 15:54:21  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 15:54:21  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 15:54:21  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 15:54:21  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:21) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 15:54:21  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (8f8856dd-76d6-4d0d-b1eb-90549868f20e)
+
+
+ [INFO] 2014:09:02 15:54:27  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:02 15:54:29  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:02 15:54:30  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:02 15:54:31  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:02 15:54:44  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:02 15:54:44  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:28) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 16:29:37  base.Base.clearlogs(Base.java:41) :  Start Time:16:29:37
+
+
+ [INFO] 2014:09:02 16:29:43  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 16:29:43  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 16:29:43  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 16:29:43  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:21) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 16:29:43  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (3b70e41c-0950-406d-ae80-0b587f558021)
+
+
+ [INFO] 2014:09:02 16:29:52  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:02 16:29:55  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:02 16:29:56  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:02 16:29:57  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:02 16:31:16  base.Base.clearlogs(Base.java:41) :  Start Time:16:31:16
+
+
+ [INFO] 2014:09:02 16:31:21  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 16:31:21  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (6e042736-eea5-4b75-b148-caec40915781)
+
+
+ [INFO] 2014:09:02 16:31:28  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 16:31:29  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 16:31:29  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 16:31:30  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 16:31:31  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 16:31:31  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 16:31:35  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 16:31:36  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 16:31:36  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (6e042736-eea5-4b75-b148-caec40915781)
+
+
+ [INFO] 2014:09:02 16:31:49  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 16:31:50  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 16:31:59  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 16:32:00  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 16:32:00  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:21) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 16:34:50  base.Base.clearlogs(Base.java:41) :  Start Time:16:34:50
+
+
+ [INFO] 2014:09:02 16:34:55  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 16:34:55  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (d3f5c136-574c-4cb7-a5dc-394f33a86f29)
+
+
+ [INFO] 2014:09:02 16:35:02  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 16:35:03  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 16:35:03  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 16:35:04  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 16:35:05  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 16:35:06  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 16:35:09  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 16:35:10  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 16:35:10  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (d3f5c136-574c-4cb7-a5dc-394f33a86f29)
+
+
+ [INFO] 2014:09:02 16:35:11  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 16:35:12  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 16:35:18  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 16:35:19  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 16:35:19  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 16:35:19  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 16:37:08  base.Base.clearlogs(Base.java:41) :  Start Time:16:37:08
+
+
+ [INFO] 2014:09:02 16:37:13  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 16:37:13  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 16:37:13  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 16:37:13  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 16:37:14  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (e33e83a6-ad8b-4264-8e93-e88b662e484e)
+
+
+ [INFO] 2014:09:02 16:37:20  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:02 16:37:21  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:02 16:37:24  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:02 16:37:25  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:02 16:37:33  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:02 16:37:33  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:17:34  base.Base.clearlogs(Base.java:41) :  Start Time:17:17:34
+
+
+ [INFO] 2014:09:02 17:17:40  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 17:17:40  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (06e5b4ab-f0f1-450d-9758-1a1e65405191)
+
+
+ [INFO] 2014:09:02 17:17:47  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 17:17:48  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 17:17:49  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:17:49  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 17:17:50  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 17:17:51  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 17:17:54  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 17:17:55  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 17:17:55  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (06e5b4ab-f0f1-450d-9758-1a1e65405191)
+
+
+ [INFO] 2014:09:02 17:17:57  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 17:17:58  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:18:05  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 17:18:06  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:18:06  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 17:18:06  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:20:25  base.Base.clearlogs(Base.java:41) :  Start Time:17:20:25
+
+
+ [INFO] 2014:09:02 17:20:30  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 17:20:30  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (9c7d7c57-3125-4fdc-b19c-fdd00104b20f)
+
+
+ [INFO] 2014:09:02 17:20:37  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 17:20:38  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 17:20:38  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:20:39  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 17:20:40  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 17:20:41  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 17:20:44  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 17:20:45  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 17:20:45  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (9c7d7c57-3125-4fdc-b19c-fdd00104b20f)
+
+
+ [INFO] 2014:09:02 17:20:47  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 17:20:47  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:20:56  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 17:20:56  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:20:56  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 17:20:56  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:22:49  base.Base.clearlogs(Base.java:41) :  Start Time:17:22:49
+
+
+ [INFO] 2014:09:02 17:22:55  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 17:22:55  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (b4a5bc5f-2aca-4cac-86c4-51eb161abf50)
+
+
+ [INFO] 2014:09:02 17:23:01  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 17:23:02  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 17:23:03  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:23:04  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 17:23:04  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 17:23:05  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 17:23:08  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 17:23:09  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 17:23:09  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (b4a5bc5f-2aca-4cac-86c4-51eb161abf50)
+
+
+ [INFO] 2014:09:02 17:23:23  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 17:23:23  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:23:30  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 17:23:31  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:23:31  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:24) :  Started Executing TC1 of Module2
+
+
+ [INFO] 2014:09:02 17:23:31  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:31) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:25:14  base.Base.clearlogs(Base.java:41) :  Start Time:17:25:14
+
+
+ [INFO] 2014:09:02 17:25:20  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 17:25:21  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (4fa57d6c-1eb4-47cf-a213-e8192e52f451)
+
+
+ [INFO] 2014:09:02 17:25:27  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 17:25:28  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 17:25:28  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:25:29  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 17:25:30  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 17:25:31  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 17:25:34  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 17:25:35  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 17:25:35  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (4fa57d6c-1eb4-47cf-a213-e8192e52f451)
+
+
+ [INFO] 2014:09:02 17:25:48  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 17:25:49  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:25:57  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 17:25:58  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:25:58  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:24) :  Started Executing TC1 of Module2:null
+
+
+ [INFO] 2014:09:02 17:25:58  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:31) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:29:23  base.Base.clearlogs(Base.java:41) :  Start Time:17:29:23
+
+
+ [INFO] 2014:09:02 17:29:28  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:28) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 17:29:28  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (52af6bba-aab9-4788-857b-30023293525d)
+
+
+ [INFO] 2014:09:02 17:29:34  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 17:29:35  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 17:29:36  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:29:37  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 17:29:37  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 17:29:38  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 17:29:42  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 17:29:42  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:34) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 17:29:42  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (52af6bba-aab9-4788-857b-30023293525d)
+
+
+ [INFO] 2014:09:02 17:29:56  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 17:29:56  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:30:02  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 17:30:03  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:40) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:30:03  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:25) :  Started Executing TC1 of Module2:keyWords.ScriptExecuter@11aa70c
+
+
+ [INFO] 2014:09:02 17:30:03  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (52af6bba-aab9-4788-857b-30023293525d)
+
+
+ [INFO] 2014:09:02 17:30:09  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:02 17:30:11  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:02 17:30:12  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:02 17:30:12  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:02 17:30:22  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:02 17:30:23  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:32) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:31:58  base.Base.clearlogs(Base.java:35) :  Start Time:17:31:58
+
+
+ [INFO] 2014:09:02 17:32:04  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 17:32:05  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (3c89a5d6-cdc5-490b-886b-127a2ef4993f)
+
+
+ [INFO] 2014:09:02 17:32:11  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 17:32:12  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 17:32:13  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:32:14  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 17:32:14  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 17:32:15  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 17:32:19  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 17:32:19  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 17:32:19  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (3c89a5d6-cdc5-490b-886b-127a2ef4993f)
+
+
+ [INFO] 2014:09:02 17:32:32  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 17:32:32  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 17:32:39  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 17:32:40  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:32:40  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2:keyWords.ScriptExecuter@9ea8d2
+
+
+ [INFO] 2014:09:02 17:32:40  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (3c89a5d6-cdc5-490b-886b-127a2ef4993f)
+
+
+ [INFO] 2014:09:02 17:32:46  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:02 17:32:48  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:02 17:32:48  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:02 17:32:49  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:02 17:32:59  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:02 17:33:00  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 17:39:01  base.Base.clearlogs(Base.java:35) :  Start Time:17:39:01
+
+
+ [INFO] 2014:09:02 17:39:06  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 17:39:07  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (42a709ab-8696-456d-8f9d-8a39e7d5aeea)
+
+
+ [INFO] 2014:09:02 17:39:14  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 17:39:15  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 18:16:26  base.Base.clearlogs(Base.java:35) :  Start Time:18:16:26
+
+
+ [INFO] 2014:09:02 18:16:33  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 18:16:33  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (19faee33-1e6d-46f2-ba4c-b7dcce48262b)
+
+
+ [INFO] 2014:09:02 18:18:07  base.Base.clearlogs(Base.java:36) :  Start Time:18:18:07
+
+
+ [INFO] 2014:09:02 18:18:13  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:27) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 18:18:13  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (4d2d0846-9bc8-4306-a4d3-af4c437a5ec8)
+
+
+ [INFO] 2014:09:02 18:18:19  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 18:18:20  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 18:18:21  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 18:18:22  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 18:18:22  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 18:18:23  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 18:18:26  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 18:18:27  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:33) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 18:18:27  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (4d2d0846-9bc8-4306-a4d3-af4c437a5ec8)
+
+
+ [INFO] 2014:09:02 18:18:29  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 18:18:30  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 18:18:35  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 18:18:36  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:39) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 18:18:36  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2:keyWords.ScriptExecuter@ab90f
+
+
+ [INFO] 2014:09:02 18:18:36  keyWords.Keywords.geturl(Keywords.java:41) :  Driver value in: FirefoxDriver: firefox on XP (4d2d0846-9bc8-4306-a4d3-af4c437a5ec8)
+
+
+ [INFO] 2014:09:02 18:18:38  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:02 18:18:40  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:02 18:18:41  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:02 18:18:42  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:02 18:18:49  keyWords.Keywords.highlightElement(Keywords.java:434) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:02 18:18:50  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 18:46:27  base.Base.clearlogs(Unknown Source) :  Start Time:18:46:27
+
+
+ [INFO] 2014:09:02 18:46:35  testCases.FamilyFactsGuest.module1tc1(Unknown Source) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:02 18:46:35  keyWords.Keywords.geturl(Unknown Source) :  Driver value in: FirefoxDriver: firefox on XP (12aeca9c-a487-41a3-bc44-f390fe2e570e)
+
+
+ [INFO] 2014:09:02 18:46:41  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:02 18:46:42  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1
+
+
+ [INFO] 2014:09:02 18:46:43  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 18:46:43  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']
+
+
+ [INFO] 2014:09:02 18:46:44  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1
+
+
+ [INFO] 2014:09:02 18:46:45  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']
+
+
+ [INFO] 2014:09:02 18:46:48  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a
+
+
+ [INFO] 2014:09:02 18:46:49  testCases.FamilyFactsGuest.module1tc2(Unknown Source) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:02 18:46:49  keyWords.Keywords.geturl(Unknown Source) :  Driver value in: FirefoxDriver: firefox on XP (12aeca9c-a487-41a3-bc44-f390fe2e570e)
+
+
+ [INFO] 2014:09:02 18:47:14  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:02 18:47:15  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:02 18:47:22  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:02 18:47:23  testCases.FamilyFactsGuest.clearcookies(Unknown Source) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:02 18:47:23  testCases.FamilyFactsRegistered.module2tc1(Unknown Source) :  Started Executing TC1 of Module2:keyWords.ScriptExecuter@5b4bc4e6
+
+
+ [INFO] 2014:09:02 18:47:23  keyWords.Keywords.geturl(Unknown Source) :  Driver value in: FirefoxDriver: firefox on XP (12aeca9c-a487-41a3-bc44-f390fe2e570e)
+
+
+ [INFO] 2014:09:02 18:47:25  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:02 18:47:26  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:02 18:47:27  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:02 18:47:28  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:02 18:47:35  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:02 18:47:36  testCases.FamilyFactsRegistered.clearcookies(Unknown Source) :  Deleting all Cookies
+

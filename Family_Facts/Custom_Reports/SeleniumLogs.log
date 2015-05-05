@@ -1,0 +1,108 @@
+
+ [INFO] 2014:12:02 13:00:14  base.Base.setUp(Unknown Source) :  Start Time:13:00:14
+
+
+ [INFO] 2014:12:02 13:00:35  base.BrowserCapabilities.launchBrowser(Unknown Source) :  FireFox Browser is Launched
+
+
+ [INFO] 2014:12:02 13:00:35  testCases.FamilyFactsGuest.module1tc1(Unknown Source) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:12:02 13:00:38  keyWords.ScriptExecuter.execute(Unknown Source) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:12:02 13:00:38  keyWords.KeywordHandler.keywordhandler(Unknown Source) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:12:02 13:00:43  keyWords.Keywords.geturl(Unknown Source) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:12:02 13:00:49  Results.ResultXml.createXml(Unknown Source) :  New Xml File is created
+
+
+ [INFO] 2014:12:02 13:00:49  keyWords.ScriptExecuter.execute(Unknown Source) :  Text retrived from the sheet are Action:VerifyTextXpath //header[@class='pageHeader']/h1Discover the meaning and history behind your last name test Verify Header text
+
+
+ [INFO] 2014:12:02 13:00:49  keyWords.KeywordHandler.keywordhandler(Unknown Source) :  keyword recived:VerifyText Property: Xpath loc: //header[@class='pageHeader']/h1 testData: 
+
+
+ [INFO] 2014:12:02 13:00:50  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:12:02 13:00:50  keyWords.Keywords.gettingText(Unknown Source) :  Discover the meaning and history behind your last name text is reterived from the '//header[@class='pageHeader']/h1' locator
+
+
+ [INFO] 2014:12:02 13:00:50  keyWords.Keywords.verifyContentMatch(Unknown Source) :  Expected Text:Discover the meaning and history behind your last name test
+
+
+ [INFO] 2014:12:02 13:00:51  utilities.TestRerun.retry(Unknown Source) :  running retry logic for  'module1tc1' on class utilities.TestRerun
+
+
+ [INFO] 2014:12:02 13:00:51  testCases.FamilyFactsGuest.module1tc1(Unknown Source) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:12:02 13:00:51  keyWords.ScriptExecuter.execute(Unknown Source) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:12:02 13:00:51  keyWords.KeywordHandler.keywordhandler(Unknown Source) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:12:02 13:00:53  keyWords.Keywords.geturl(Unknown Source) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:12:02 13:00:54  keyWords.ScriptExecuter.execute(Unknown Source) :  Text retrived from the sheet are Action:VerifyTextXpath //header[@class='pageHeader']/h1Discover the meaning and history behind your last name test Verify Header text
+
+
+ [INFO] 2014:12:02 13:00:54  keyWords.KeywordHandler.keywordhandler(Unknown Source) :  keyword recived:VerifyText Property: Xpath loc: //header[@class='pageHeader']/h1 testData: 
+
+
+ [INFO] 2014:12:02 13:00:54  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:12:02 13:00:55  keyWords.Keywords.gettingText(Unknown Source) :  Discover the meaning and history behind your last name text is reterived from the '//header[@class='pageHeader']/h1' locator
+
+
+ [INFO] 2014:12:02 13:00:55  keyWords.Keywords.verifyContentMatch(Unknown Source) :  Expected Text:Discover the meaning and history behind your last name test
+
+
+ [INFO] 2014:12:02 13:00:55  utilities.TestRerun.retry(Unknown Source) :  running retry logic for  'module1tc1' on class utilities.TestRerun
+
+
+ [INFO] 2014:12:02 13:00:55  testCases.FamilyFactsGuest.module1tc2(Unknown Source) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:12:02 13:00:55  keyWords.ScriptExecuter.execute(Unknown Source) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:12:02 13:00:56  keyWords.KeywordHandler.keywordhandler(Unknown Source) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:12:02 13:00:59  keyWords.Keywords.geturl(Unknown Source) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:12:02 13:00:59  keyWords.ScriptExecuter.execute(Unknown Source) :  Text retrived from the sheet are Action:sendkeysXpath //*[@id='surname']Smith Enter Text in surname field
+
+
+ [INFO] 2014:12:02 13:00:59  keyWords.KeywordHandler.keywordhandler(Unknown Source) :  keyword recived:sendkeys Property: Xpath loc: //*[@id='surname'] testData: Smith
+
+
+ [INFO] 2014:12:02 13:00:59  keyWords.Keywords.highlightElement(Unknown Source) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:12:02 13:01:01  keyWords.Keywords.getAndSend(Unknown Source) :  GetAndSend method Called
+
+
+ [INFO] 2014:12:02 13:01:01  keyWords.Keywords.getAndSend(Unknown Source) :  GetAndSend returned testdata directly
+
+
+ [INFO] 2014:12:02 13:01:01  keyWords.Keywords.sendkeys(Unknown Source) :  Smith value is entereed in //*[@id='surname'] Element
+
+
+ [INFO] 2014:12:02 13:01:02  keyWords.ScriptExecuter.execute(Unknown Source) :  Text retrived from the sheet are Action:clickXpath //*[@id='ffSurnameBtn'] Click on Search button 
+
+
+ [INFO] 2014:12:02 13:01:02  keyWords.KeywordHandler.keywordhandler(Unknown Source) :  keyword recived:click Property: Xpath loc: //*[@id='ffSurnameBtn'] testData: 
+
+
+ [INFO] 2014:12:02 13:01:03  keyWords.Keywords.click(Unknown Source) :  Highlighted ScreenD:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result02Dec2014_1300\screens\Family_Facts_GuestClick on Search button -917930278.jpg
+

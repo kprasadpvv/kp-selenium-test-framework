@@ -1,0 +1,34 @@
+<html>
+<head>
+<title> Report </title>
+<link href="base.css" rel="stylesheet" type="text/css"  />
+</head>
+<body>
+<div id="header">
+<h1> This is results page </h1>
+</div>
+<div id="menu">
+<list>
+<li> Overview </li>
+<li> Module </li>
+</div>
+<div class="display">
+<table>
+<tr>
+<th> Test case </th>
+<th>  Result </th>
+<th> Screens </th>
+</tr>
+<tr>
+<td> Test case </td>
+<td id="fail"> FAIL </td>
+<td> Screens </td>
+</tr>
+<tr>
+<td> Test case </td>
+<td id="pass"> PASS </td>
+<td> Screens </td>
+</tr>
+</div>
+</body>
+</html>

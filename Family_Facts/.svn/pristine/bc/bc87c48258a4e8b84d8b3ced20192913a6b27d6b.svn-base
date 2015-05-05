@@ -1,0 +1,411 @@
+
+ [INFO] 2014:09:15 17:04:14  base.Base.clearlogs(Base.java:35) :  Start Time:17:04:14
+
+
+ [INFO] 2014:09:15 17:04:19  base.BrowserCapabilities.launchBrowser(BrowserCapabilities.java:44) :  Chrome Browser is Launched
+
+
+ [INFO] 2014:09:15 17:04:19  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:29) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:15 17:04:22  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:09:15 17:04:22  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:09:15 17:04:28  keyWords.Keywords.geturl(Keywords.java:47) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:09:15 17:04:30  Results.ResultXml.createXml(ResultXml.java:63) :  New Xml File is created
+
+
+ [INFO] 2014:09:15 17:04:30  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:VerifyTextXpath //header[@class='pageHeader']/h1Discover the meaning and history behind your last name test Verify Header text
+
+
+ [INFO] 2014:09:15 17:04:30  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:VerifyText Property: Xpath loc: //header[@class='pageHeader']/h1 testData: 
+
+
+ [INFO] 2014:09:15 17:04:30  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:15 17:04:31  keyWords.Keywords.gettingText(Keywords.java:145) :  Discover the meaning and history behind your last name text is reterived from the '//header[@class='pageHeader']/h1' locator
+
+
+ [INFO] 2014:09:15 17:04:31  keyWords.Keywords.verifyContentMatch(Keywords.java:507) :  Expected Text:Discover the meaning and history behind your last name test
+
+
+ [INFO] 2014:09:15 17:04:32  utilities.TestRerun.retry(TestRerun.java:29) :  running retry logic for  'module1tc1' on class utilities.TestRerun
+
+
+ [INFO] 2014:09:15 17:04:32  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:29) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:15 17:04:32  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:09:15 17:04:32  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:09:15 17:04:33  keyWords.Keywords.geturl(Keywords.java:47) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:09:15 17:04:33  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:VerifyTextXpath //header[@class='pageHeader']/h1Discover the meaning and history behind your last name test Verify Header text
+
+
+ [INFO] 2014:09:15 17:04:33  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:VerifyText Property: Xpath loc: //header[@class='pageHeader']/h1 testData: 
+
+
+ [INFO] 2014:09:15 17:04:33  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:15 17:04:34  keyWords.Keywords.gettingText(Keywords.java:145) :  Discover the meaning and history behind your last name text is reterived from the '//header[@class='pageHeader']/h1' locator
+
+
+ [INFO] 2014:09:15 17:04:34  keyWords.Keywords.verifyContentMatch(Keywords.java:507) :  Expected Text:Discover the meaning and history behind your last name test
+
+
+ [INFO] 2014:09:15 17:04:34  utilities.TestRerun.retry(TestRerun.java:29) :  running retry logic for  'module1tc1' on class utilities.TestRerun
+
+
+ [INFO] 2014:09:15 17:04:34  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:35) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:15 17:04:34  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:09:15 17:04:34  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:09:15 17:04:36  keyWords.Keywords.geturl(Keywords.java:47) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:09:15 17:04:36  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:sendkeysXpath //*[@id='surname']Smith Enter Text in surname field
+
+
+ [INFO] 2014:09:15 17:04:36  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:sendkeys Property: Xpath loc: //*[@id='surname'] testData: Smith
+
+
+ [INFO] 2014:09:15 17:04:36  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:15 17:04:37  keyWords.Keywords.getAndSend(Keywords.java:313) :  GetAndSend method Called
+
+
+ [INFO] 2014:09:15 17:04:37  keyWords.Keywords.getAndSend(Keywords.java:326) :  GetAndSend returned testdata directly
+
+
+ [INFO] 2014:09:15 17:04:37  keyWords.Keywords.sendkeys(Keywords.java:96) :  Smith value is entereed in //*[@id='surname'] Element
+
+
+ [INFO] 2014:09:15 17:04:37  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:clickXpath //*[@id='ffSurnameBtn'] Click on Search button 
+
+
+ [INFO] 2014:09:15 17:04:37  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:click Property: Xpath loc: //*[@id='ffSurnameBtn'] testData: 
+
+
+ [INFO] 2014:09:15 17:04:37  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:15 17:04:41  keyWords.Keywords.click(Keywords.java:72) :  //*[@id='ffSurnameBtn'] Element Clicked
+
+
+ [INFO] 2014:09:15 17:04:41  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:VerifyTextXpath //*[@id='topContainer']/h1Smith Family History Verify the Navigation to Family history  Page 
+
+
+ [INFO] 2014:09:15 17:04:41  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:VerifyText Property: Xpath loc: //*[@id='topContainer']/h1 testData: 
+
+
+ [INFO] 2014:09:15 17:04:41  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:15 17:04:42  keyWords.Keywords.gettingText(Keywords.java:145) :  Smith Family History text is reterived from the '//*[@id='topContainer']/h1' locator
+
+
+ [INFO] 2014:09:15 17:04:42  keyWords.Keywords.verifyContentMatch(Keywords.java:507) :  Expected Text:Smith Family History
+
+
+ [INFO] 2014:09:15 17:04:42  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:        
+
+
+ [INFO] 2014:09:15 17:04:42  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:  Property:   loc:   testData:  
+
+
+ [INFO] 2014:09:15 17:04:42  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:41) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:15 17:04:42  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2:keyWords.ScriptExecuter@1f91609
+
+
+ [INFO] 2014:09:15 17:04:42  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page
+
+
+ [INFO] 2014:09:15 17:04:42  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:09:15 17:04:45  keyWords.Keywords.geturl(Keywords.java:47) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:09:15 17:04:45  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:clickId showSignIn Click on Show Sign-in button
+
+
+ [INFO] 2014:09:15 17:04:45  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:click Property: Id loc: showSignIn testData: 
+
+
+ [INFO] 2014:09:15 17:04:45  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:15 17:04:46  keyWords.Keywords.click(Keywords.java:72) :  showSignIn Element Clicked
+
+
+ [INFO] 2014:09:15 17:04:46  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:sendkeysId usernamezenfbitesterkp1 Enter username in username field
+
+
+ [INFO] 2014:09:15 17:04:46  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:sendkeys Property: Id loc: username testData: zenfbitesterkp1
+
+
+ [INFO] 2014:09:15 17:04:46  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:15 17:04:46  keyWords.Keywords.getAndSend(Keywords.java:313) :  GetAndSend method Called
+
+
+ [INFO] 2014:09:15 17:04:46  keyWords.Keywords.getAndSend(Keywords.java:326) :  GetAndSend returned testdata directly
+
+
+ [INFO] 2014:09:15 17:04:47  keyWords.Keywords.sendkeys(Keywords.java:96) :  zenfbitesterkp1 value is entereed in username Element
+
+
+ [INFO] 2014:09:15 17:04:47  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:sendkeysId passwordtesting Enter password in password filed
+
+
+ [INFO] 2014:09:15 17:04:47  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:sendkeys Property: Id loc: password testData: testing
+
+
+ [INFO] 2014:09:15 17:04:47  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:15 17:04:47  keyWords.Keywords.getAndSend(Keywords.java:313) :  GetAndSend method Called
+
+
+ [INFO] 2014:09:15 17:04:47  keyWords.Keywords.getAndSend(Keywords.java:326) :  GetAndSend returned testdata directly
+
+
+ [INFO] 2014:09:15 17:04:47  keyWords.Keywords.sendkeys(Keywords.java:96) :  testing value is entereed in password Element
+
+
+ [INFO] 2014:09:15 17:04:48  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:clickId signin Click on Sign-in button
+
+
+ [INFO] 2014:09:15 17:04:48  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:click Property: Id loc: signin testData: 
+
+
+ [INFO] 2014:09:15 17:04:48  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:15 17:04:55  keyWords.Keywords.click(Keywords.java:72) :  signin Element Clicked
+
+
+ [INFO] 2014:09:15 17:04:55  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:VerifyTextClassName accountNamezenfbitesterkp1 Verify logged in user name
+
+
+ [INFO] 2014:09:15 17:04:55  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:VerifyText Property: ClassName loc: accountName testData: 
+
+
+ [INFO] 2014:09:15 17:04:55  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:15 17:04:56  keyWords.Keywords.gettingText(Keywords.java:145) :  ZenFbitesterkp1 text is reterived from the 'accountName' locator
+
+
+ [INFO] 2014:09:15 17:04:56  keyWords.Keywords.verifyContentMatch(Keywords.java:507) :  Expected Text:zenfbitesterkp1
+
+
+ [INFO] 2014:09:15 17:04:56  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:15 17:04:56  testCases.FamilyFactsGuest.module1tc1(FamilyFactsGuest.java:29) :  Started Executing Test Case :1 of module1
+
+
+ [INFO] 2014:09:15 17:04:56  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:09:15 17:04:56  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:09:15 17:04:58  keyWords.Keywords.geturl(Keywords.java:47) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:09:15 17:04:58  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:VerifyTextXpath //header[@class='pageHeader']/h1Discover the meaning and history behind your last name test Verify Header text
+
+
+ [INFO] 2014:09:15 17:04:58  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:VerifyText Property: Xpath loc: //header[@class='pageHeader']/h1 testData: 
+
+
+ [INFO] 2014:09:15 17:04:58  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1
+
+
+ [INFO] 2014:09:15 17:04:59  keyWords.Keywords.gettingText(Keywords.java:145) :  Discover the meaning and history behind your last name text is reterived from the '//header[@class='pageHeader']/h1' locator
+
+
+ [INFO] 2014:09:15 17:04:59  keyWords.Keywords.verifyContentMatch(Keywords.java:507) :  Expected Text:Discover the meaning and history behind your last name test
+
+
+ [INFO] 2014:09:15 17:04:59  utilities.TestRerun.retry(TestRerun.java:29) :  running retry logic for  'module1tc1' on class utilities.TestRerun
+
+
+ [INFO] 2014:09:15 17:04:59  testCases.FamilyFactsGuest.module1tc2(FamilyFactsGuest.java:35) :  Started Executing Test Case :2 of module1
+
+
+ [INFO] 2014:09:15 17:04:59  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state
+
+
+ [INFO] 2014:09:15 17:04:59  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:09:15 17:05:01  keyWords.Keywords.geturl(Keywords.java:47) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:09:15 17:05:01  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:sendkeysXpath //*[@id='surname']Smith Enter Text in surname field
+
+
+ [INFO] 2014:09:15 17:05:01  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:sendkeys Property: Xpath loc: //*[@id='surname'] testData: Smith
+
+
+ [INFO] 2014:09:15 17:05:01  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']
+
+
+ [INFO] 2014:09:15 17:05:02  keyWords.Keywords.getAndSend(Keywords.java:313) :  GetAndSend method Called
+
+
+ [INFO] 2014:09:15 17:05:02  keyWords.Keywords.getAndSend(Keywords.java:326) :  GetAndSend returned testdata directly
+
+
+ [INFO] 2014:09:15 17:05:02  keyWords.Keywords.sendkeys(Keywords.java:96) :  Smith value is entereed in //*[@id='surname'] Element
+
+
+ [INFO] 2014:09:15 17:05:02  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:clickXpath //*[@id='ffSurnameBtn'] Click on Search button 
+
+
+ [INFO] 2014:09:15 17:05:02  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:click Property: Xpath loc: //*[@id='ffSurnameBtn'] testData: 
+
+
+ [INFO] 2014:09:15 17:05:02  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']
+
+
+ [INFO] 2014:09:15 17:05:05  keyWords.Keywords.click(Keywords.java:72) :  //*[@id='ffSurnameBtn'] Element Clicked
+
+
+ [INFO] 2014:09:15 17:05:05  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:VerifyTextXpath //*[@id='topContainer']/h1Smith Family History Verify the Navigation to Family history  Page 
+
+
+ [INFO] 2014:09:15 17:05:05  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:VerifyText Property: Xpath loc: //*[@id='topContainer']/h1 testData: 
+
+
+ [INFO] 2014:09:15 17:05:05  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1
+
+
+ [INFO] 2014:09:15 17:05:06  keyWords.Keywords.gettingText(Keywords.java:145) :  Smith Family History text is reterived from the '//*[@id='topContainer']/h1' locator
+
+
+ [INFO] 2014:09:15 17:05:06  keyWords.Keywords.verifyContentMatch(Keywords.java:507) :  Expected Text:Smith Family History
+
+
+ [INFO] 2014:09:15 17:05:06  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:        
+
+
+ [INFO] 2014:09:15 17:05:06  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:  Property:   loc:   testData:  
+
+
+ [INFO] 2014:09:15 17:05:06  testCases.FamilyFactsGuest.clearcookies(FamilyFactsGuest.java:41) :  Deleting all Cookies
+
+
+ [INFO] 2014:09:15 17:05:06  testCases.FamilyFactsRegistered.module2tc1(FamilyFactsRegistered.java:23) :  Started Executing TC1 of Module2:keyWords.ScriptExecuter@1ea760c
+
+
+ [INFO] 2014:09:15 17:05:06  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page
+
+
+ [INFO] 2014:09:15 17:05:06  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts
+
+
+ [INFO] 2014:09:15 17:05:08  keyWords.Keywords.geturl(Keywords.java:47) :  http://ancestry.com/learn/facts Url is opened
+
+
+ [INFO] 2014:09:15 17:05:08  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:clickId showSignIn Click on Show Sign-in button
+
+
+ [INFO] 2014:09:15 17:05:08  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:click Property: Id loc: showSignIn testData: 
+
+
+ [INFO] 2014:09:15 17:05:08  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived LocatorshowSignIn
+
+
+ [INFO] 2014:09:15 17:05:09  keyWords.Keywords.click(Keywords.java:72) :  showSignIn Element Clicked
+
+
+ [INFO] 2014:09:15 17:05:09  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:sendkeysId usernamezenfbitesterkp1 Enter username in username field
+
+
+ [INFO] 2014:09:15 17:05:09  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:sendkeys Property: Id loc: username testData: zenfbitesterkp1
+
+
+ [INFO] 2014:09:15 17:05:09  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived Locatorusername
+
+
+ [INFO] 2014:09:15 17:05:10  keyWords.Keywords.getAndSend(Keywords.java:313) :  GetAndSend method Called
+
+
+ [INFO] 2014:09:15 17:05:10  keyWords.Keywords.getAndSend(Keywords.java:326) :  GetAndSend returned testdata directly
+
+
+ [INFO] 2014:09:15 17:05:10  keyWords.Keywords.sendkeys(Keywords.java:96) :  zenfbitesterkp1 value is entereed in username Element
+
+
+ [INFO] 2014:09:15 17:05:11  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:sendkeysId passwordtesting Enter password in password filed
+
+
+ [INFO] 2014:09:15 17:05:11  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:sendkeys Property: Id loc: password testData: testing
+
+
+ [INFO] 2014:09:15 17:05:11  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived Locatorpassword
+
+
+ [INFO] 2014:09:15 17:05:11  keyWords.Keywords.getAndSend(Keywords.java:313) :  GetAndSend method Called
+
+
+ [INFO] 2014:09:15 17:05:11  keyWords.Keywords.getAndSend(Keywords.java:326) :  GetAndSend returned testdata directly
+
+
+ [INFO] 2014:09:15 17:05:11  keyWords.Keywords.sendkeys(Keywords.java:96) :  testing value is entereed in password Element
+
+
+ [INFO] 2014:09:15 17:05:12  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:clickId signin Click on Sign-in button
+
+
+ [INFO] 2014:09:15 17:05:12  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:click Property: Id loc: signin testData: 
+
+
+ [INFO] 2014:09:15 17:05:12  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordId Recived Locatorsignin
+
+
+ [INFO] 2014:09:15 17:05:16  keyWords.Keywords.click(Keywords.java:72) :  signin Element Clicked
+
+
+ [INFO] 2014:09:15 17:05:16  keyWords.ScriptExecuter.execute(ScriptExecuter.java:34) :  Text retrived from the sheet are Action:VerifyTextClassName accountNamezenfbitesterkp1 Verify logged in user name
+
+
+ [INFO] 2014:09:15 17:05:16  keyWords.KeywordHandler.keywordhandler(KeywordHandler.java:21) :  keyword recived:VerifyText Property: ClassName loc: accountName testData: 
+
+
+ [INFO] 2014:09:15 17:05:16  keyWords.Keywords.highlightElement(Keywords.java:558) :  Highlight function called: Received keywordClassName Recived LocatoraccountName
+
+
+ [INFO] 2014:09:15 17:05:17  keyWords.Keywords.gettingText(Keywords.java:145) :  ZenFbitesterkp1 text is reterived from the 'accountName' locator
+
+
+ [INFO] 2014:09:15 17:05:17  keyWords.Keywords.verifyContentMatch(Keywords.java:507) :  Expected Text:zenfbitesterkp1
+
+
+ [INFO] 2014:09:15 17:05:17  testCases.FamilyFactsRegistered.clearcookies(FamilyFactsRegistered.java:30) :  Deleting all Cookies
+

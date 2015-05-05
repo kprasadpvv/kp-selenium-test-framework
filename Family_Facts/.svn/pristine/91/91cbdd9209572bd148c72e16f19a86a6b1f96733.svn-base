@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="51656" started-at="2014-09-09T07:01:04Z" finished-at="2014-09-09T07:01:56Z">
+    <groups>
+    </groups>
+    <test name="Family_Facts" duration-ms="51656" started-at="2014-09-09T07:01:04Z" finished-at="2014-09-09T07:01:56Z">
+      <class name="testCases.FamilyFactsGuest">
+        <test-method status="PASS" signature="clearlogs()[pri:0, instance:testCases.FamilyFactsGuest@15080e5]" name="clearlogs" is-config="true" duration-ms="7580" started-at="2014-09-09T12:30:56Z" finished-at="2014-09-09T12:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearlogs -->
+        <test-method status="PASS" signature="scripExecuterIntializer()[pri:0, instance:testCases.FamilyFactsGuest@15080e5]" name="scripExecuterIntializer" is-config="true" duration-ms="101" started-at="2014-09-09T12:31:04Z" finished-at="2014-09-09T12:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scripExecuterIntializer -->
+        <test-method status="PASS" signature="module1tc1()[pri:0, instance:testCases.FamilyFactsGuest@15080e5]" name="module1tc1" duration-ms="24053" started-at="2014-09-09T12:31:04Z" finished-at="2014-09-09T12:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module1tc1 -->
+        <test-method status="PASS" signature="module1tc2()[pri:0, instance:testCases.FamilyFactsGuest@15080e5]" name="module1tc2" duration-ms="8553" started-at="2014-09-09T12:31:28Z" finished-at="2014-09-09T12:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module1tc2 -->
+        <test-method status="PASS" signature="clearcookies()[pri:0, instance:testCases.FamilyFactsGuest@15080e5]" name="clearcookies" is-config="true" duration-ms="80" started-at="2014-09-09T12:31:37Z" finished-at="2014-09-09T12:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearcookies -->
+        <test-method status="PASS" signature="writeResult()[pri:0, instance:testCases.FamilyFactsGuest@15080e5]" name="writeResult" is-config="true" duration-ms="2583" started-at="2014-09-09T12:31:56Z" finished-at="2014-09-09T12:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeResult -->
+      </class> <!-- testCases.FamilyFactsGuest -->
+      <class name="testCases.FamilyFactsRegistered">
+        <test-method status="PASS" signature="scripExecuterIntializer()[pri:0, instance:testCases.FamilyFactsRegistered@172cc99]" name="scripExecuterIntializer" is-config="true" duration-ms="0" started-at="2014-09-09T12:31:37Z" finished-at="2014-09-09T12:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scripExecuterIntializer -->
+        <test-method status="PASS" signature="module2tc1()[pri:0, instance:testCases.FamilyFactsRegistered@172cc99]" name="module2tc1" duration-ms="18798" started-at="2014-09-09T12:31:37Z" finished-at="2014-09-09T12:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- module2tc1 -->
+        <test-method status="PASS" signature="clearcookies()[pri:0, instance:testCases.FamilyFactsRegistered@172cc99]" name="clearcookies" is-config="true" duration-ms="21" started-at="2014-09-09T12:31:56Z" finished-at="2014-09-09T12:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearcookies -->
+      </class> <!-- testCases.FamilyFactsRegistered -->
+    </test> <!-- Family_Facts -->
+  </suite> <!-- Suite1 -->
+</testng-results>

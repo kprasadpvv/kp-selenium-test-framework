@@ -1,0 +1,959 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Log4J Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Fri Sep 05 17:46:37 IST 2014<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>0</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Start Time:17:46:37</td>
+</tr>
+
+<tr>
+<td>6247</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Started Executing Test Case :1 of module1</td>
+</tr>
+
+<tr>
+<td>6405</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state</td>
+</tr>
+
+<tr>
+<td>6405</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts</td>
+</tr>
+
+<tr>
+<td>12730</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">http://ancestry.com/learn/facts Url is opened</td>
+</tr>
+
+<tr>
+<td>12783</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">New Xml File is created</td>
+</tr>
+
+<tr>
+<td>14038</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_1296675219.jpg</td>
+</tr>
+
+<tr>
+<td>14038</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:VerifyTextXpath //header[@class='pageHeader']/h1Discover the meaning and history behind your last name Verify Header text</td>
+</tr>
+
+<tr>
+<td>14039</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:VerifyText Property: Xpath loc: //header[@class='pageHeader']/h1 testData: </td>
+</tr>
+
+<tr>
+<td>14091</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//header[@class='pageHeader']/h1</td>
+</tr>
+
+<tr>
+<td>14759</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Discover the meaning and history behind your last name text is reterived from the '//header[@class='pageHeader']/h1' locator</td>
+</tr>
+
+<tr>
+<td>14760</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Expected Text:Discover the meaning and history behind your last name</td>
+</tr>
+
+<tr>
+<td>15120</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_1-2030226308.jpg</td>
+</tr>
+
+<tr>
+<td>15121</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:VerifyTextXpath //section[@class='ffSearchTop ancGrid']/h1Enter your last name to learn its meaning and origin. Verify placeholder text of Surname Field</td>
+</tr>
+
+<tr>
+<td>15122</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:VerifyText Property: Xpath loc: //section[@class='ffSearchTop ancGrid']/h1 testData: </td>
+</tr>
+
+<tr>
+<td>15142</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//section[@class='ffSearchTop ancGrid']/h1</td>
+</tr>
+
+<tr>
+<td>15805</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Enter your last name to learn its meaning and origin. text is reterived from the '//section[@class='ffSearchTop ancGrid']/h1' locator</td>
+</tr>
+
+<tr>
+<td>15805</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Expected Text:Enter your last name to learn its meaning and origin.</td>
+</tr>
+
+<tr>
+<td>16130</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_1-1289602256.jpg</td>
+</tr>
+
+<tr>
+<td>16131</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:clickXpath //*[@id='ffSurnameBtn'] Click on Search button without entering the any data</td>
+</tr>
+
+<tr>
+<td>16131</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:click Property: Xpath loc: //*[@id='ffSurnameBtn'] testData: </td>
+</tr>
+
+<tr>
+<td>16150</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']</td>
+</tr>
+
+<tr>
+<td>16897</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">//*[@id='ffSurnameBtn'] Element Clicked</td>
+</tr>
+
+<tr>
+<td>17204</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_130474243.jpg</td>
+</tr>
+
+<tr>
+<td>17206</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:VerifyTextXpath //*[@id='calloutContent']please enter a surname Check Error messgae</td>
+</tr>
+
+<tr>
+<td>17206</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:VerifyText Property: Xpath loc: //*[@id='calloutContent'] testData: </td>
+</tr>
+
+<tr>
+<td>17223</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//*[@id='calloutContent']</td>
+</tr>
+
+<tr>
+<td>17879</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Please enter a surname text is reterived from the '//*[@id='calloutContent']' locator</td>
+</tr>
+
+<tr>
+<td>17879</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Expected Text:please enter a surname</td>
+</tr>
+
+<tr>
+<td>18203</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_1-792844169.jpg</td>
+</tr>
+
+<tr>
+<td>18204</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:VerifyTextXpath //footer[@class='pageFooter']/div/div/h1"I tried a 2-week free trial membership and I'm so glad I did. I can't believe how much I discovered." Verify Free Trail footer</td>
+</tr>
+
+<tr>
+<td>18205</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:VerifyText Property: Xpath loc: //footer[@class='pageFooter']/div/div/h1 testData: </td>
+</tr>
+
+<tr>
+<td>18221</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//footer[@class='pageFooter']/div/div/h1</td>
+</tr>
+
+<tr>
+<td>18875</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">"I tried a 2-week free trial membership and I'm so glad I did. I can't believe how much I discovered." text is reterived from the '//footer[@class='pageFooter']/div/div/h1' locator</td>
+</tr>
+
+<tr>
+<td>18876</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Expected Text:"I tried a 2-week free trial membership and I'm so glad I did. I can't believe how much I discovered."</td>
+</tr>
+
+<tr>
+<td>19192</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_11415678704.jpg</td>
+</tr>
+
+<tr>
+<td>19194</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:clickXpath //a[@class='ancBtn green lrg'] Verify Free trail link</td>
+</tr>
+
+<tr>
+<td>19194</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:click Property: Xpath loc: //a[@class='ancBtn green lrg'] testData: </td>
+</tr>
+
+<tr>
+<td>19216</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//a[@class='ancBtn green lrg']</td>
+</tr>
+
+<tr>
+<td>22576</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">//a[@class='ancBtn green lrg'] Element Clicked</td>
+</tr>
+
+<tr>
+<td>22926</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_1-2045831591.jpg</td>
+</tr>
+
+<tr>
+<td>23014</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:VerifyTextXpath //*[@id='priceTable']/aStart FREE trial Verify the navigation to trail page</td>
+</tr>
+
+<tr>
+<td>23015</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:VerifyText Property: Xpath loc: //*[@id='priceTable']/a testData: </td>
+</tr>
+
+<tr>
+<td>23042</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//*[@id='priceTable']/a</td>
+</tr>
+
+<tr>
+<td>23700</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Start FREE trial text is reterived from the '//*[@id='priceTable']/a' locator</td>
+</tr>
+
+<tr>
+<td>23700</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Expected Text:Start FREE trial</td>
+</tr>
+
+<tr>
+<td>24056</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_1603688127.jpg</td>
+</tr>
+
+<tr>
+<td>24057</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:        </td>
+</tr>
+
+<tr>
+<td>24058</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:  Property:   loc:   testData:  </td>
+</tr>
+
+<tr>
+<td>24058</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:        </td>
+</tr>
+
+<tr>
+<td>24058</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:  Property:   loc:   testData:  </td>
+</tr>
+
+<tr>
+<td>24058</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:        </td>
+</tr>
+
+<tr>
+<td>24058</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:  Property:   loc:   testData:  </td>
+</tr>
+
+<tr>
+<td>24058</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:        </td>
+</tr>
+
+<tr>
+<td>24059</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:  Property:   loc:   testData:  </td>
+</tr>
+
+<tr>
+<td>24061</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Started Executing Test Case :2 of module1</td>
+</tr>
+
+<tr>
+<td>24068</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page in Logged out state</td>
+</tr>
+
+<tr>
+<td>24068</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts</td>
+</tr>
+
+<tr>
+<td>34934</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">http://ancestry.com/learn/facts Url is opened</td>
+</tr>
+
+<tr>
+<td>35264</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_2-288693731.jpg</td>
+</tr>
+
+<tr>
+<td>35264</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:sendkeysXpath //*[@id='surname']Smith Enter Text in surname field</td>
+</tr>
+
+<tr>
+<td>35265</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:sendkeys Property: Xpath loc: //*[@id='surname'] testData: Smith</td>
+</tr>
+
+<tr>
+<td>35285</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//*[@id='surname']</td>
+</tr>
+
+<tr>
+<td>35921</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">GetAndSend method Called</td>
+</tr>
+
+<tr>
+<td>35921</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">GetAndSend returned testdata directly</td>
+</tr>
+
+<tr>
+<td>35969</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Smith value is entereed in //*[@id='surname'] Element</td>
+</tr>
+
+<tr>
+<td>36832</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_21703386092.jpg</td>
+</tr>
+
+<tr>
+<td>36833</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:clickXpath //*[@id='ffSurnameBtn'] Click on Search button </td>
+</tr>
+
+<tr>
+<td>36833</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:click Property: Xpath loc: //*[@id='ffSurnameBtn'] testData: </td>
+</tr>
+
+<tr>
+<td>36852</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//*[@id='ffSurnameBtn']</td>
+</tr>
+
+<tr>
+<td>42126</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">//*[@id='ffSurnameBtn'] Element Clicked</td>
+</tr>
+
+<tr>
+<td>42801</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_2-1630812667.jpg</td>
+</tr>
+
+<tr>
+<td>42802</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:VerifyTextXpath //*[@id='topContainer']/h1Smith Family History Verify the Navigation to Family history  Page </td>
+</tr>
+
+<tr>
+<td>42802</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:VerifyText Property: Xpath loc: //*[@id='topContainer']/h1 testData: </td>
+</tr>
+
+<tr>
+<td>42819</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordXpath Recived Locator//*[@id='topContainer']/h1</td>
+</tr>
+
+<tr>
+<td>43473</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Smith Family History text is reterived from the '//*[@id='topContainer']/h1' locator</td>
+</tr>
+
+<tr>
+<td>43473</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Expected Text:Smith Family History</td>
+</tr>
+
+<tr>
+<td>43837</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_GuestGuest_TC_21351630081.jpg</td>
+</tr>
+
+<tr>
+<td>43838</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:        </td>
+</tr>
+
+<tr>
+<td>43838</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:  Property:   loc:   testData:  </td>
+</tr>
+
+<tr>
+<td>43841</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Deleting all Cookies</td>
+</tr>
+
+<tr>
+<td>43851</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Started Executing TC1 of Module2:keyWords.ScriptExecuter@320544</td>
+</tr>
+
+<tr>
+<td>43861</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:getURL http://ancestry.com/learn/facts Navigate to Family facts high level search page</td>
+</tr>
+
+<tr>
+<td>43861</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:get Property: URL loc:  testData: http://ancestry.com/learn/facts</td>
+</tr>
+
+<tr>
+<td>46430</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">http://ancestry.com/learn/facts Url is opened</td>
+</tr>
+
+<tr>
+<td>46789</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_RegisteredRegistered_TC_1360826674.jpg</td>
+</tr>
+
+<tr>
+<td>46790</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:clickId showSignIn Click on Show Sign-in button</td>
+</tr>
+
+<tr>
+<td>46790</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:click Property: Id loc: showSignIn testData: </td>
+</tr>
+
+<tr>
+<td>46821</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordId Recived LocatorshowSignIn</td>
+</tr>
+
+<tr>
+<td>47544</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">showSignIn Element Clicked</td>
+</tr>
+
+<tr>
+<td>49674</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_RegisteredRegistered_TC_11048174044.jpg</td>
+</tr>
+
+<tr>
+<td>49675</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:sendkeysId usernamezenfbitesterkp1 Enter username in username field</td>
+</tr>
+
+<tr>
+<td>49675</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:sendkeys Property: Id loc: username testData: zenfbitesterkp1</td>
+</tr>
+
+<tr>
+<td>50039</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordId Recived Locatorusername</td>
+</tr>
+
+<tr>
+<td>50689</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">GetAndSend method Called</td>
+</tr>
+
+<tr>
+<td>50689</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">GetAndSend returned testdata directly</td>
+</tr>
+
+<tr>
+<td>50747</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">zenfbitesterkp1 value is entereed in username Element</td>
+</tr>
+
+<tr>
+<td>51145</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_RegisteredRegistered_TC_1-1936138307.jpg</td>
+</tr>
+
+<tr>
+<td>51146</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:sendkeysId passwordtesting Enter password in password filed</td>
+</tr>
+
+<tr>
+<td>51146</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:sendkeys Property: Id loc: password testData: testing</td>
+</tr>
+
+<tr>
+<td>51164</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordId Recived Locatorpassword</td>
+</tr>
+
+<tr>
+<td>51840</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">GetAndSend method Called</td>
+</tr>
+
+<tr>
+<td>51840</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">GetAndSend returned testdata directly</td>
+</tr>
+
+<tr>
+<td>51877</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">testing value is entereed in password Element</td>
+</tr>
+
+<tr>
+<td>52211</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_RegisteredRegistered_TC_1-290608634.jpg</td>
+</tr>
+
+<tr>
+<td>52212</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:clickId signin Click on Sign-in button</td>
+</tr>
+
+<tr>
+<td>52213</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:click Property: Id loc: signin testData: </td>
+</tr>
+
+<tr>
+<td>52232</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordId Recived Locatorsignin</td>
+</tr>
+
+<tr>
+<td>59889</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">signin Element Clicked</td>
+</tr>
+
+<tr>
+<td>60404</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_RegisteredRegistered_TC_1-272776232.jpg</td>
+</tr>
+
+<tr>
+<td>60405</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Text retrived from the sheet are Action:VerifyTextClassName accountNamezenfbitesterkp1 Verify logged in user name</td>
+</tr>
+
+<tr>
+<td>60406</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">keyword recived:VerifyText Property: ClassName loc: accountName testData: </td>
+</tr>
+
+<tr>
+<td>60430</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Highlight function called: Received keywordClassName Recived LocatoraccountName</td>
+</tr>
+
+<tr>
+<td>61086</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">ZenFbitesterkp1 text is reterived from the 'accountName' locator</td>
+</tr>
+
+<tr>
+<td>61087</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Expected Text:zenfbitesterkp1</td>
+</tr>
+
+<tr>
+<td>61599</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Screen Shot Created and with path Screen Path: .\Custom_Reports\Result05Sep2014_1746\screens\Family_Facts_RegisteredRegistered_TC_1132138047.jpg</td>
+</tr>
+
+<tr>
+<td>61602</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Base category">Base</td>
+<td title="Message">Deleting all Cookies</td>
+</tr>

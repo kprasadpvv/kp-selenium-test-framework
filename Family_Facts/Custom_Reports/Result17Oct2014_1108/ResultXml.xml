@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test_Suite Suite="suiteName">
+  <Environment userName="Prasad" os="Windows 7" osVersion="6.1" />
+  <Module Module="Family_Facts_Guest">
+    <Test_Case Name="Guest_TC_1">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestNavigate to Family facts high level search page in Logged out state887151893.jpg" />
+      <Scenario ScenarioDescription="Verify Header text" Result="Fail" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestVerify Header text-1157610314.jpg" />
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestNavigate to Family facts high level search page in Logged out state-1485503665.jpg" />
+      <Scenario ScenarioDescription="Verify Header text" Result="Fail" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestVerify Header text1300315333.jpg" />
+    </Test_Case>
+    <Test_Case Name="Guest_TC_2">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestNavigate to Family facts high level search page in Logged out state-1060647792.jpg" />
+      <Scenario ScenarioDescription="Enter Text in surname field" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestEnter Text in surname field1070411684.jpg" />
+      <Scenario ScenarioDescription="Click on Search button " Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestClick on Search button 1343101184.jpg" />
+      <Scenario ScenarioDescription="Verify the Navigation to Family history  Page " Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_GuestVerify the Navigation to Family history  Page 475410026.jpg" />
+    </Test_Case>
+  </Module>
+  <Module Module="Family_Facts_Registered">
+    <Test_Case Name="Registered_TC_1">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_RegisteredNavigate to Family facts high level search page-2020238116.jpg" />
+      <Scenario ScenarioDescription="Click on Show Sign-in button" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_RegisteredClick on Show Sign-in button-1980099049.jpg" />
+      <Scenario ScenarioDescription="Enter username in username field" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_RegisteredEnter username in username field1377419070.jpg" />
+      <Scenario ScenarioDescription="Enter password in password filed" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_RegisteredEnter password in password filed-993266854.jpg" />
+      <Scenario ScenarioDescription="Click on Sign-in button" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_RegisteredClick on Sign-in button1703839357.jpg" />
+      <Scenario ScenarioDescription="Verify logged in user name" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result17Oct2014_1108\screens\Family_Facts_RegisteredVerify logged in user name488997883.jpg" />
+    </Test_Case>
+  </Module>
+</Test_Suite>

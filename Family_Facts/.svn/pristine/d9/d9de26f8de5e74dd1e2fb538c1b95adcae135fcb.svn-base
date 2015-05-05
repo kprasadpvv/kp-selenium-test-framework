@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1">
+<!-- @Executiontype : local to execute in local machine Remote to execute in remote system 
+									remote/local -->
+<parameter name="executiontype" value="remote"></parameter>
+
+<!-- Change @browser parameter values to launch desired browser
+  		ie - Internet Explorer, chrome - Chrome, ff- FireFox, safari-Safari   -->
+<parameter name="browser" value="ie"></parameter>
+<parameter name="version" value="9"></parameter>
+<parameter name="os" value="windows"></parameter>
+<parameter name="os_version" value="7"></parameter>
+<parameter name="resolution" value="1024x768"></parameter>
+
+<!-- <listeners>
+    <listener class-name="test.reporter.CustomReporter" />
+  </listeners> -->
+  <test name="Family_Facts">
+  <!-- Change browser parameter values to launch desired browser
+  		ie - Internet Explorer, chrome - Chrome, ff- FireFox, safari-Safari   -->
+   
+    <classes>
+    		<!-- <class name="base.Base"/> -->
+    		<class name="testCases.FamilyFactsGuest"/>
+    		<class name="testCases.FamilyFactsRegistered"/>
+     </classes>
+  </test>
+</suite>

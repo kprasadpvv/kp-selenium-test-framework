@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+     // google.setOnLoadCallback(drawChart);
+      function drawChart( p,  f, s ) 
+	  {
+	   var pass= parseInt(p);
+	   var fail= parseInt(f);
+	    var skip= parseInt(s);
+        var data = google.visualization.arrayToDataTable([
+          ['TC', 'Results'],
+          ['Pass',  pass],
+          ['Fail',  fail],
+          ['Skip',  skip],
+          ]);
+
+        var options = {
+          title: 'Test Results',
+		  is3D: true,
+
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+		 function selectHandler() {
+          var selectedItem = chart.getSelection()[0];
+          if (selectedItem) {
+            var topping = data.getValue(selectedItem.row, 0);
+            alert('The user selected ' + topping);
+          }
+        }
+
+        google.visualization.events.addListener(chart, 'select', selectHandler);  
+		
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body onload="drawChart(10,5,2);">
+    <div id="piechart" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>

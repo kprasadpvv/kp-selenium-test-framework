@@ -1,0 +1,5 @@
+<h2>Methods that were not run</h2><table>
+<tr><td>base.Base.clearlogs</td></tr>
+<tr><td>base.Base.writeResult</td></tr>
+<tr><td>base.Base.launchBrowser</td></tr>
+</table>

@@ -1,0 +1,76 @@
+
+$(document).ready( function()
+{
+$(".modules").on('click',function()
+{
+	var $tablediv = $('.tctable').get();
+// hiding other elements except the one selected
+    $($tablediv).each(function(index, element) 
+		{
+			$(element).hide();
+		});
+
+	
+// Open the element clicked 	
+	for(var index=0; index<$tablediv.length;index++)
+	{
+	 if($tablediv[index].id==($(this).text()))
+		{
+		
+		 $("#"+$tablediv[index].id).slideDown(300, function()
+			{
+				$(this).addClass("active");
+			
+			}); 
+	  
+		}
+	 }
+	 return false;
+ });
+ 
+ 
+ 
+//$( ".tc" ).dialog({ autoOpen: false });
+$( ".tc" ).on('click',function() 
+{
+	var $mname = $(this).attr("name");
+	var $senarios = $('.testsenarios').get();
+	
+		
+	for(var index=0; index<$senarios.length;index++)
+	{
+		var $tcName= ($mname+$(this).text());
+		
+		//alert($senarios[index].id);
+		if($senarios[index].id == $tcName)
+		{
+			
+			
+		 $("#"+$senarios[index].id).slideDown(0, function()
+			{
+				$(this).addClass("movements");
+				$(this).addClass("white_content").css("display","block");
+			//$(".close").addClass("testsenarios").addClass("black_overlay");
+			$("#fade").css("display","block");
+			$(".close").css("display","block");
+			});
+			
+			$(".close").on('click', function() 
+			{
+				$("#"+$senarios[index].id)	
+			
+			});
+		}
+		
+	}
+	return false;
+	
+	
+	
+});
+
+ 
+ 
+});
+
+

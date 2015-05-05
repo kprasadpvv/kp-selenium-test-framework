@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+<title>Result Output</title>
+<link href="base.css" rel="stylesheet" type="text/css"/>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"> </script>
+<script type="text/javascript" src="script.js" > </script>
+<script src="https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
+
+<script type="text/javascript">
+
+function unhide(divID)
+{
+/*var item = document.getElementById(divID);
+if (item)
+{
+item.className=(item.className=='hidden')?'unhidden':'hidden';
+}*/
+
+document.getElementById(divID).style.display='block';
+document.getElementById(divID).style.display='block'
+
+
+}
+</script>
+
+
+
+</head>
+<body>
+<div id="header">
+<h1> This is results page </h1>
+</div>
+
+<div id="menu">
+<list>
+<li> Overview </li>
+<li id="m1" class="modules" ><a href="">modulename</li>
+<li id="m2" class="modules" ><a href="">modulename2</a></li>
+</list>
+</div> 
+
+<div  id="modulename" class="tctable active">
+<table id="testcases">
+<tr>
+<th> Test case </th>
+<th> Result </th>
+<th> Screens </th>
+</tr>
+
+<tr>
+<td class="tc" name="modulename"><a href="">testcaseName</a></td>
+<td id="pass">Pass</td>
+<td>screenshot</td>
+</tr>
+<tr>
+<td class="tc" name="modulename"><a href="">testcaseName2</a></td>
+<td id="fail">Fail</td><td>screenshot</td></tr>
+
+<tr>
+<td><a href="">testcaseName3</a></td>
+<td id="fail">Fail</td><td>screenshot</td></tr>
+</table>
+
+</div>
+<div  class="tctable" id="modulename2">
+
+<table id="testcase" ><tr><th> Test case </th><th> Result </th><th> Screens </th><tr>
+<td><a href="javascript:unhide('modulename2testcaseName1');">testcaseName1</a></td><td id="fail">Fail</td><td>screenshot</td></tr>
+<tr><td><a href="javascript:unhide('modulename2testcaseName2');">testcaseName2</a></td><td id="fail">Fail</td><td>screenshot</td></tr>
+</table>
+</div>
+
+<div name="display" class="testsenarios" id="modulenametestcaseName">
+<div class="close" name="display" > <a href="">close </a></div>
+<table id="senario"><tr><th> Test Senario </th><th> Result </th><th> Screens </th>
+<tr><td>senarioDescription1</td><td id="pass">Pass</td><td>screenshot</td></tr>
+<tr><td>senarioDescription3</td><td id="pass">Pass</td><td>screenshot</td></tr>
+</table>
+</div>
+<div id="fade" class="black_overlay">
+</div>
+<div name="display" class="testsenarios" id="modulenametestcaseName2">
+<table id="senario"><tr><th> Test Senario </th><th> Result </th><th> Screens </th>
+<tr><td>senarioDescription2</td><td id="fail">Fail</td><td>screenshot</td></tr>
+<tr><td>senarioDescription4</td><td id="fail">Fail</td><td>screenshot</td></tr>
+<tr><td>senarioDescription5</td><td id="pass">Pass</td><td>screenshot</td></tr>
+</table>
+</div>
+
+<div name="display" class="testsenarios" id="modulenametestcaseName3">
+<table id="senario"><tr><th> Test Senario </th><th> Result </th><th> Screens </th>
+<tr><td>senarioDescription6</td><td id="fail">Fail</td><td>screenshot</td></tr>
+</table>
+</div>
+
+<div name="display" class="testsenarios" id="modulename2testcaseName1">
+<table id="senario"><tr><th> Test Senario </th><th> Result </th><th> Screens </th>
+<tr><td>senarioDescription7</td><td id="pass">Pass</td><td>screenshot</td></tr>
+<tr><td>senarioDescription10</td><td id="fail">Fail</td><td>screenshot</td></tr>
+</table></div>
+
+<div name="display" class="testsenarios" id="modulename2testcaseName2">
+<table id="senario"><tr><th> Test Senario </th><th> Result </th><th> Screens </th>
+<tr><td>senarioDescription8</td><td id="fail">Fail</td><td>screenshot</td></tr>
+<tr><td>senarioDescription9</td><td id="fail">Fail</td><td>screenshot</td></tr>
+</table>
+</div>
+</body>
+</html>

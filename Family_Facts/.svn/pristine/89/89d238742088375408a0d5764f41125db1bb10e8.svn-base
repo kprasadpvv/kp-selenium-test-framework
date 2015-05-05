@@ -1,0 +1,78 @@
+package keyWords;
+
+import org.apache.log4j.Logger;
+
+import base.Base;
+
+public class KeywordHandler 
+{
+	
+	
+	Keywords key= new Keywords();
+	LocatorsHandler loc = new LocatorsHandler();
+	Logger log=Base.log;
+	
+	public void keywordhandler(String keyword, String property, String locator,String testData, String expected, String modulename, String testcaseName, String senarioDescription)
+	{
+		
+		log.info("keyword recived:"+keyword+" Property: "+property+" loc: " +locator+" testData: "+testData);
+		
+		if(keyword.equalsIgnoreCase("get"))
+		{
+			key.geturl(testData,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("click"))
+		{
+			key.click(property,locator,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("sendkeys"))
+		{
+			key.sendkeys(property,locator, testData,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("getText"))
+		{
+			String textreceived= key.gettingText(property,locator,modulename,testcaseName,senarioDescription);
+			System.out.println(textreceived);
+		}else if(keyword.equalsIgnoreCase("clear"))
+		{
+			key.clearField(property,locator,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("moveToElement"))
+		{
+			key.moveToElement(property,locator,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("javaScriptClick"))
+		{
+			key.javaScriptClick(property,locator,modulename,testcaseName,senarioDescription);
+		} else if(keyword.equalsIgnoreCase("wait"))
+		{
+			key.myWait(property,locator,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("EnterGedcomPath"))
+		{
+			// call Robot class here
+			key.uploadViaRobt(locator,testData,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("getandsend"))
+		{
+			String toEnter= key.getAndSend(testData, modulename, testcaseName,senarioDescription);
+			System.out.println("Returned Data: "+toEnter);
+			key.sendkeys(property,locator, toEnter,modulename,testcaseName,senarioDescription);
+		}else if(keyword.equalsIgnoreCase("select"))
+		{
+			key.select(property,locator,modulename,testcaseName,senarioDescription);			
+		}else if(keyword.equalsIgnoreCase("deselect"))
+		{
+			key.deSelect(property,locator,modulename,testcaseName,senarioDescription);			
+		}
+		else if(keyword.equalsIgnoreCase("switchWindow"))
+		{
+			key.switchWindow(locator,modulename,testcaseName,senarioDescription);			
+		}else if(keyword.equalsIgnoreCase("switchParent"))
+		{
+			key.switchToParent(modulename,testcaseName,senarioDescription);			
+		}
+		else if(keyword.equalsIgnoreCase("VerifyText"))
+		{
+			key.verifyContentMatch(property,locator, expected, modulename, testcaseName,senarioDescription);
+		}
+		else
+		{
+			System.out.println("nothing is handled ");
+		}
+	}
+	
+}

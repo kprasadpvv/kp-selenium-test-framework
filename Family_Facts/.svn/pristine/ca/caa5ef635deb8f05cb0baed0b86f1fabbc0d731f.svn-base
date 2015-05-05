@@ -1,0 +1,20 @@
+package utilities;
+
+public class EnviDetails 
+{
+
+	public void getSysProp()
+	{
+		String user = System.getProperty("user.name");
+		String os = System.getProperty("os.name");
+		String version = System.getProperty("os.version");
+		System.out.println("User: "+user+"\nOS: "+os+"\nversion: "+version);
+	}
+	
+	public static  void main( String args[]) 
+	{
+		EnviDetails e = new EnviDetails();
+		e.getSysProp();
+
+	}
+}

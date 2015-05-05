@@ -1,0 +1,116 @@
+package base;
+
+import java.awt.Desktop;
+import java.io.File;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import Results.HtmlWriter;
+import Results.ResultXml;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxProfile;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.safari.SafariDriver;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+public class Base 
+{
+	public static WebDriver driver;
+	public static Logger log=Logger.getLogger("Base");
+	public static String startTime,endTime; 
+	BrowserSetUp bro= new BrowserSetUp();
+
+	
+	public WebDriver getDriver()
+	{
+		return driver;
+	}
+	
+	// Clearing existing log files
+		
+	@BeforeSuite
+	
+	public void clearlogs()
+	{
+		startTime = new SimpleDateFormat("HH:mm:ss").format(Calendar.getInstance().getTimeInMillis());
+		log.info("Start Time:"+startTime);
+		/*System.setProperty("webdriver.chrome.driver", "D:\\Automation_Script\\Workspace\\Drivers\\chromedriver.exe");
+		driver = new ChromeDriver();*/
+		
+		/*FirefoxProfile firefoxProfile = new FirefoxProfile();
+		firefoxProfile.setPreference("plugin.state.npmcffplg", 0);
+		driver= new FirefoxDriver(firefoxProfile);*/
+		//driver.manage().window().maximize();
+		ResultXml logFile= new ResultXml();
+		logFile.deleteLog();
+		
+		
+	}
+	@BeforeTest
+	@Parameters(value={"browser"})
+	public void launchBrowser(String browser)
+	{
+		log.info("B value:"+browser);
+		
+		if(browser.equalsIgnoreCase("ie"))
+		{				
+			System.setProperty("webdriver.ie.driver", "D:\\Automation_Script\\Workspace\\Drivers\\IEDriverServer.exe");
+			driver = new InternetExplorerDriver();
+			driver.manage().window().maximize();
+		}
+		else if (browser.equalsIgnoreCase("ff"))
+		{
+			driver = new FirefoxDriver();
+			driver.manage().window().maximize();
+		}
+		else if (browser.equalsIgnoreCase("chrome"))
+		{
+			System.setProperty("webdriver.chrome.driver", "D:\\Automation_Script\\Workspace\\Drivers\\chromedriver.exe");
+			driver = new ChromeDriver();
+			driver.manage().window().maximize();
+			
+		}else if(browser.equalsIgnoreCase("safari"))
+		{
+			driver= new SafariDriver();
+			driver.manage().window().maximize();
+		}
+		
+	}
+	
+	/* Tasks executed in After suits:
+		   - Will create and write result to HTML file
+		   - Launch the Result file in the default browser
+		   - Copy log files to the current results folder
+	*/
+	
+	@AfterSuite
+	
+	public void writeResult()
+	{
+		endTime= new SimpleDateFormat("HH:mm:ss").format(Calendar.getInstance().getTimeInMillis());
+		
+		HtmlWriter result = new HtmlWriter();
+		String filepath=result.createHtml();
+		try{
+		File file=new File(filepath);
+		String f1=file.getCanonicalPath();
+		File file2=new File(f1);
+		driver.quit();
+		Desktop.getDesktop().browse(file2.toURI());
+		}catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		ResultXml logFile= new ResultXml();
+		logFile.copyLog();
+		
+	}
+	
+}

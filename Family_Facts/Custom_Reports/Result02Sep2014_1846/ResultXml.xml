@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test_Suite Suite="suiteName">
+  <Module Module="Family_Facts_Guest">
+    <Test_Case Name="Guest_TC_1">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" />
+      <Scenario ScenarioDescription="Verify Header text" Result="Pass" />
+      <Scenario ScenarioDescription="Verify placeholder text of Surname Field" Result="Pass" />
+      <Scenario ScenarioDescription="Click on Search button without entering the any data" Result="Pass" />
+      <Scenario ScenarioDescription="Check Error messgae" Result="Pass" />
+      <Scenario ScenarioDescription="Verify Free Trail footer" Result="Pass" />
+      <Scenario ScenarioDescription="Verify Free trail link" Result="Pass" />
+      <Scenario ScenarioDescription="Verify the navigation to trail page" Result="Pass" />
+    </Test_Case>
+    <Test_Case Name="Guest_TC_2">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" />
+      <Scenario ScenarioDescription="Enter Text in surname field" Result="Pass" />
+      <Scenario ScenarioDescription="Click on Search button " Result="Pass" />
+      <Scenario ScenarioDescription="Verify the Navigation to Family history  Page " Result="Pass" />
+    </Test_Case>
+  </Module>
+  <Module Module="Family_Facts_Registered">
+    <Test_Case Name="Registered_TC_1">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page" Result="Pass" />
+      <Scenario ScenarioDescription="Click on Show Sign-in button" Result="Pass" />
+      <Scenario ScenarioDescription="Enter username in username field" Result="Pass" />
+      <Scenario ScenarioDescription="Enter password in password filed" Result="Pass" />
+      <Scenario ScenarioDescription="Click on Sign-in button" Result="Pass" />
+      <Scenario ScenarioDescription="Verify logged in user name" Result="Pass" />
+    </Test_Case>
+  </Module>
+</Test_Suite>

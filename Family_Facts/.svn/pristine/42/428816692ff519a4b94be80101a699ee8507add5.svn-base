@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Family_Facts(failed)">
+    <classes>
+      <class name="testCases.FamilyFactsRegistered">
+        <methods>
+          <include name="clearlogs"/>
+          <include name="module2tc1"/>
+        </methods>
+      </class> <!-- testCases.FamilyFactsRegistered -->
+      <class name="testCases.FamilyFactsGuest">
+        <methods>
+          <include name="module1tc1"/>
+          <include name="module1tc2"/>
+        </methods>
+      </class> <!-- testCases.FamilyFactsGuest -->
+    </classes>
+  </test> <!-- Family_Facts(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

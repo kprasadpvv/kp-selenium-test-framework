@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Family_Facts]">
+  <parameter name="os" value="OSX 10.8"/>
+  <parameter name="domain" value="saucelabs"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="executiontype" value="remote"/>
+  <parameter name="resolution" value="1024x768"/>
+  <parameter name="version" value="31"/>
+  <parameter name="os_version" value="7"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+  </listeners>
+  <test name="Family_Facts(failed)">
+    <classes>
+      <class name="testCases.FamilyFactsRegistered">
+        <methods>
+          <include name="clearlogs"/>
+          <include name="clearcookies"/>
+          <include name="writeResult"/>
+          <include name="module2tc1"/>
+          <include name="scripExecuterIntializer"/>
+        </methods>
+      </class> <!-- testCases.FamilyFactsRegistered -->
+      <class name="testCases.FamilyFactsGuest">
+        <methods>
+          <include name="clearcookies"/>
+          <include name="module1tc1"/>
+          <include name="scripExecuterIntializer"/>
+        </methods>
+      </class> <!-- testCases.FamilyFactsGuest -->
+    </classes>
+  </test> <!-- Family_Facts(failed) -->
+</suite> <!-- Failed suite [Family_Facts] -->

@@ -1,0 +1,43 @@
+package testCases;
+
+import keyWords.ScriptExecuter;
+
+import org.apache.log4j.Logger;
+
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import base.Base;
+
+public class FamilyFactsGuest extends Base
+{
+	//Base base=new Base();
+	Logger log = Base.log;
+	ScriptExecuter script;
+		
+	@BeforeClass
+	public void scripExecuterIntializer()
+	{
+		script= new ScriptExecuter();
+	}
+	@Test(priority=1)
+	public void module1tc1()
+	{
+		log.info("Started Executing Test Case :1 of module1");
+		script.execute(".\\Test_Data\\FamilyFacts.xls","Guest_TC_1","Family_Facts_Guest");	
+	}
+	@Test(priority=2)
+	public void module1tc2()
+	{
+		log.info("Started Executing Test Case :2 of module1");
+		script.execute(".\\Test_Data\\FamilyFacts.xls","Guest_TC_2","Family_Facts_Guest");
+	}
+	@AfterClass
+	public void clearcookies()
+	{
+		log.info("Deleting all Cookies");
+		driver.manage().deleteAllCookies();
+		
+	}
+}

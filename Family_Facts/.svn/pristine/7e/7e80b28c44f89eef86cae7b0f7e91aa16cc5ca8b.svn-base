@@ -1,0 +1,57 @@
+package base;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.safari.SafariDriver;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
+
+public class BrowserSetUp 
+{
+	Logger log=Base.log;
+	WebDriver driver=Base.driver;
+	
+	@BeforeMethod
+	@Parameters(value={"browser"})
+	public void launchBrowser(String browser)
+	{
+		log.info("B value:"+browser);
+		
+		
+		if(browser.equalsIgnoreCase("ie"))
+		{				
+			System.setProperty("webdriver.ie.driver", "D:\\Automation_Script\\Workspace\\Drivers\\IEDriverServer.exe");
+			driver = new InternetExplorerDriver();
+			driver.manage().window().maximize();
+		}
+		else if (browser.equalsIgnoreCase("ff"))
+		{
+			driver = new FirefoxDriver();
+			driver.manage().window().maximize();
+		}
+		else if (browser.equalsIgnoreCase("chrome"))
+		{
+			System.setProperty("webdriver.chrome.driver", "D:\\Automation_Script\\Workspace\\Drivers\\chromedriver.exe");
+			driver = new ChromeDriver();
+			driver.manage().window().maximize();
+			
+		}else if(browser.equalsIgnoreCase("safari"))
+		{
+			driver= new SafariDriver();
+			driver.manage().window().maximize();
+		}
+		
+		
+		
+	}
+
+	public WebDriver getDriver()
+	{
+		return driver;
+	}
+	
+}

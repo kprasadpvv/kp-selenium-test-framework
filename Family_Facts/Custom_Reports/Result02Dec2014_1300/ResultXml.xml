@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test_Suite Suite="suiteName">
+  <Environment userName="Prasad" os="Windows 7" osVersion="6.1" />
+  <Module Module="Family_Facts_Guest">
+    <Test_Case Name="Guest_TC_1">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result02Dec2014_1300\screens\Family_Facts_GuestNavigate to Family facts high level search page in Logged out state1346046483.jpg" />
+      <Scenario ScenarioDescription="Verify Header text" Result="Fail" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result02Dec2014_1300\screens\Family_Facts_GuestVerify Header text-1371202164.jpg" />
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result02Dec2014_1300\screens\Family_Facts_GuestNavigate to Family facts high level search page in Logged out state-145638834.jpg" />
+      <Scenario ScenarioDescription="Verify Header text" Result="Fail" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result02Dec2014_1300\screens\Family_Facts_GuestVerify Header text-967077558.jpg" />
+    </Test_Case>
+    <Test_Case Name="Guest_TC_2">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result02Dec2014_1300\screens\Family_Facts_GuestNavigate to Family facts high level search page in Logged out state-1689058720.jpg" />
+      <Scenario ScenarioDescription="Enter Text in surname field" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result02Dec2014_1300\screens\Family_Facts_GuestEnter Text in surname field1869711203.jpg" />
+    </Test_Case>
+  </Module>
+</Test_Suite>

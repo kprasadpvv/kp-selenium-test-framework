@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 4 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Family_Facts">
+              <span class="suite-name border-failed">Family_Facts</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Family_Facts">
+                    <span>D:\Automation_Script\Workspace\Family_Facts\src\FamilyFactsTestNGRun.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Family_Facts">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Family_Facts">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Family_Facts">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Family_Facts">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Family_Facts">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Family_Facts">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">4 methods, 4 failed,   </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Family_Facts" class="hide-methods failed suite-Family_Facts"> (hide)</a> <!-- hide-methods failed suite-Family_Facts -->
+                      <a href="#" panel-name="suite-Family_Facts" class="show-methods failed suite-Family_Facts"> (show)</a> <!-- show-methods failed suite-Family_Facts -->
+                    </span>
+                    <div class="method-list-content failed suite-Family_Facts">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Family_Facts" title="testCases.FamilyFactsGuest" hash-for-method="module1tc1">module1tc1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Family_Facts" title="testCases.FamilyFactsGuest" hash-for-method="module1tc1">module1tc1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Family_Facts" title="testCases.FamilyFactsGuest" hash-for-method="module1tc2">module1tc2</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Family_Facts" title="testCases.FamilyFactsRegistered" hash-for-method="module2tc1">module2tc1</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Family_Facts -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Family_Facts" class="panel Family_Facts">
+          <div class="suite-Family_Facts-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">testCases.FamilyFactsGuest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="module1tc1">
+                  </a> <!-- module1tc1 -->
+                  <span class="method-name">module1tc1</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=38.0.2125.101)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: &apos;2.43.0&apos;, revision: &apos;597b76b&apos;, time: &apos;2014-09-09 20:52:38&apos;
+System info: host: &apos;SYS0018&apos;, ip: &apos;192.168.0.27&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.6.0_25&apos;
+Session ID: 0f5fa74b9ac595505ce9498eefd4523b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir6180_142}, rotatable=false, locationContextEnabled=true, version=38.0.2125.101, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:324)
+	at Results.ScreenCapture.saveScreenWithHighlight(Unknown Source)
+	at keyWords.Keywords.geturl(Unknown Source)
+	at keyWords.KeywordHandler.keywordhandler(Unknown Source)
+	at keyWords.ScriptExecuter.execute(Unknown Source)
+	at testCases.FamilyFactsGuest.module1tc1(Unknown Source)
+... Removed 27 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="module1tc1">
+                  </a> <!-- module1tc1 -->
+                  <span class="method-name">module1tc1</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=38.0.2125.101)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds
+Build info: version: &apos;2.43.0&apos;, revision: &apos;597b76b&apos;, time: &apos;2014-09-09 20:52:38&apos;
+System info: host: &apos;SYS0018&apos;, ip: &apos;192.168.0.27&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.6.0_25&apos;
+Session ID: 0f5fa74b9ac595505ce9498eefd4523b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir6180_142}, rotatable=false, locationContextEnabled=true, version=38.0.2125.101, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:324)
+	at Results.ScreenCapture.saveScreenWithHighlight(Unknown Source)
+	at keyWords.Keywords.geturl(Unknown Source)
+	at keyWords.KeywordHandler.keywordhandler(Unknown Source)
+	at keyWords.ScriptExecuter.execute(Unknown Source)
+	at testCases.FamilyFactsGuest.module1tc1(Unknown Source)
+... Removed 27 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="module1tc2">
+                  </a> <!-- module1tc2 -->
+                  <span class="method-name">module1tc2</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=38.0.2125.101)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2 milliseconds
+Build info: version: &apos;2.43.0&apos;, revision: &apos;597b76b&apos;, time: &apos;2014-09-09 20:52:38&apos;
+System info: host: &apos;SYS0018&apos;, ip: &apos;192.168.0.27&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.6.0_25&apos;
+Session ID: 0f5fa74b9ac595505ce9498eefd4523b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir6180_142}, rotatable=false, locationContextEnabled=true, version=38.0.2125.101, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:324)
+	at Results.ScreenCapture.saveScreenWithHighlight(Unknown Source)
+	at keyWords.Keywords.geturl(Unknown Source)
+	at keyWords.KeywordHandler.keywordhandler(Unknown Source)
+	at keyWords.ScriptExecuter.execute(Unknown Source)
+	at testCases.FamilyFactsGuest.module1tc2(Unknown Source)
+... Removed 27 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Family_Facts-class-failed -->
+          <div class="suite-Family_Facts-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">testCases.FamilyFactsRegistered</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="module2tc1">
+                  </a> <!-- module2tc1 -->
+                  <span class="method-name">module2tc1</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=38.0.2125.101)
+  (Driver info: chromedriver=2.8.241075,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 4 milliseconds
+Build info: version: &apos;2.43.0&apos;, revision: &apos;597b76b&apos;, time: &apos;2014-09-09 20:52:38&apos;
+System info: host: &apos;SYS0018&apos;, ip: &apos;192.168.0.27&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.6.0_25&apos;
+Session ID: 0f5fa74b9ac595505ce9498eefd4523b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\admin\AppData\Local\Temp\scoped_dir6180_142}, rotatable=false, locationContextEnabled=true, version=38.0.2125.101, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, nativeEvents=true, webStorageEnabled=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:324)
+	at Results.ScreenCapture.saveScreenWithHighlight(Unknown Source)
+	at keyWords.Keywords.geturl(Unknown Source)
+	at keyWords.KeywordHandler.keywordhandler(Unknown Source)
+	at keyWords.ScriptExecuter.execute(Unknown Source)
+	at testCases.FamilyFactsRegistered.module2tc1(Unknown Source)
+... Removed 27 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Family_Facts-class-failed -->
+        </div> <!-- panel Family_Facts -->
+        <div panel-name="test-xml-Family_Facts" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">D:\Automation_Script\Workspace\Family_Facts\src\FamilyFactsTestNGRun.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Family_Facts&quot;&gt;
+  &lt;parameter name=&quot;os&quot; value=&quot;OSX 10.8&quot;/&gt;
+  &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+  &lt;parameter name=&quot;domain&quot; value=&quot;saucelabs&quot;/&gt;
+  &lt;parameter name=&quot;executiontype&quot; value=&quot;local&quot;/&gt;
+  &lt;parameter name=&quot;resolution&quot; value=&quot;1024x768&quot;/&gt;
+  &lt;parameter name=&quot;os_version&quot; value=&quot;7&quot;/&gt;
+  &lt;parameter name=&quot;version&quot; value=&quot;31&quot;/&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;org.uncommons.reportng.HTMLReporter&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test name=&quot;Family_Facts&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;testCases.FamilyFactsGuest&quot;/&gt;
+      &lt;class name=&quot;testCases.FamilyFactsRegistered&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Family_Facts --&gt;
+&lt;/suite&gt; &lt;!-- Family_Facts --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Family_Facts" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Family_Facts</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Family_Facts (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Family_Facts" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Family_Facts</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Family_Facts" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Family_Facts</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Family_Facts');
+function tableData_Family_Facts() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(4);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'module1tc1')
+data.setCell(0, 2, 'testCases.FamilyFactsGuest')
+data.setCell(0, 3, 966);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'module1tc1')
+data.setCell(1, 2, 'testCases.FamilyFactsGuest')
+data.setCell(1, 3, 142);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'module1tc2')
+data.setCell(2, 2, 'testCases.FamilyFactsGuest')
+data.setCell(2, 3, 121);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'module2tc1')
+data.setCell(3, 2, 'testCases.FamilyFactsRegistered')
+data.setCell(3, 3, 112);
+window.suiteTableData['Family_Facts']= { tableData: data, tableDiv: 'times-div-Family_Facts'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 seconds</span>
+              <div id="times-div-Family_Facts">
+              </div> <!-- times-div-Family_Facts -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Family_Facts" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Family_Facts</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Family_Facts" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">2 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">testCases.FamilyFactsRegistered</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">clearlogs</span>
+                <br/>
+                <span class="ignored-method-name">writeResult</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Family_Facts" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.FamilyFactsGuest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">clearlogs(local, saucelabs, chrome, 31, OSX 10.8, 7, 1024x768)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+              <div class="configuration-class before">
+                <span class="method-name">scripExecuterIntializer</span>
+                <span class="method-start">2505 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">module1tc1</span>
+                <span class="method-start">2513 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">module1tc1</span>
+                <span class="method-start">3480 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">module1tc2</span>
+                <span class="method-start">3623 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">clearcookies</span>
+                <span class="method-start">3744 ms</span>
+              </div> <!-- configuration-class after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">testCases.FamilyFactsRegistered</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">scripExecuterIntializer</span>
+                <span class="method-start">3750 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">module2tc1</span>
+                <span class="method-start">3750 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-class after">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">clearcookies</span>
+                <span class="method-start">3863 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

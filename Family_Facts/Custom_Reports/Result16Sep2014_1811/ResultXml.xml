@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test_Suite Suite="suiteName" userName="Prasad" os="Windows 7" osVersion="6.1">
+  <Environment />
+  <Module Module="Family_Facts_Guest">
+    <Test_Case Name="Guest_TC_1">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_1212043008.jpg" />
+      <Scenario ScenarioDescription="Verify Header text" Result="Fail" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_11923293019.jpg" />
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_11039502193.jpg" />
+      <Scenario ScenarioDescription="Verify Header text" Result="Fail" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_1-1669555624.jpg" />
+    </Test_Case>
+    <Test_Case Name="Guest_TC_2">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page in Logged out state" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_21972812530.jpg" />
+      <Scenario ScenarioDescription="Enter Text in surname field" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_2985112620.jpg" />
+      <Scenario ScenarioDescription="Click on Search button " Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_2-1457622397.jpg" />
+      <Scenario ScenarioDescription="Verify the Navigation to Family history  Page " Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_GuestGuest_TC_2-1928619716.jpg" />
+    </Test_Case>
+  </Module>
+  <Module Module="Family_Facts_Registered">
+    <Test_Case Name="Registered_TC_1">
+      <Scenario ScenarioDescription="Navigate to Family facts high level search page" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_RegisteredRegistered_TC_1-538293396.jpg" />
+      <Scenario ScenarioDescription="Click on Show Sign-in button" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_RegisteredRegistered_TC_1497909665.jpg" />
+      <Scenario ScenarioDescription="Enter username in username field" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_RegisteredRegistered_TC_1-1030960843.jpg" />
+      <Scenario ScenarioDescription="Enter password in password filed" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_RegisteredRegistered_TC_1367526305.jpg" />
+      <Scenario ScenarioDescription="Click on Sign-in button" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_RegisteredRegistered_TC_1-108305717.jpg" />
+      <Scenario ScenarioDescription="Verify logged in user name" Result="Pass" ScreenPath="D:\Automation_Script\Workspace\Family_Facts\Custom_Reports\Result16Sep2014_1811\screens\Family_Facts_RegisteredRegistered_TC_1-1778008369.jpg" />
+    </Test_Case>
+  </Module>
+</Test_Suite>

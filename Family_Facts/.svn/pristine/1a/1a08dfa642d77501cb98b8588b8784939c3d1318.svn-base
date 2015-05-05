@@ -1,0 +1,326 @@
+body
+{
+	background-color: #f8f8f3;
+}
+
+div#header
+{
+	background-color: black;
+    height: 120px;
+    left: 0;
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+	opacity:0.7;
+ }
+
+div#menu
+{
+ background-color:black;
+ position: fixed;
+ top:120px;
+ width:20%;
+ float:left;
+ opacity:0.7;
+ left:0px;
+ height:100%;
+}
+#displaypane
+{
+ background-color: #f8f8f3;
+ top: 130px;
+ width: 74%;
+ float:right;
+ height:100%;
+ }
+
+
+#footer
+{
+
+}
+
+.logo
+{
+	position:relative;
+	left: 5px;
+	top: 5px;
+	width:166;
+	height:66;
+	opacity:1;
+}
+#heading
+{
+	text-align: center;
+	float: left;
+	left:500px;
+    position: absolute;
+	opacity:1;
+}
+#heading p
+{
+	font-size:20px;
+	font-family:Trebuchet MS;
+	color:orange;
+	
+}
+#timeregion
+{
+	float: right;
+	color:white;
+    height: 166px;
+    position: absolute;
+    right: 20px;
+    top: 0;
+	opacity:1;
+}
+.listelements
+{
+	
+	padding-left: 40px;
+    padding-top: 60px;
+}
+li 
+{
+	list-style-type:none;
+	font-family:Trebuchet MS;
+	font-size:18;
+		
+}
+
+li a
+{
+	color:white;
+}
+a
+{
+	text-decoration: none;
+}
+li a:hover
+{
+	color:black;
+	background-color:orange;
+	opacity:0.8;
+}
+
+a:hover
+{
+	color:orange;
+}
+
+h1
+{
+	
+}
+h2
+{
+	
+}
+
+table
+{
+	
+   border-collapse: collapse;
+	width: 100%;
+}
+
+table,th,td 
+{
+    border: 1px solid black;
+}
+th
+{
+background-color: #0b6690;
+color : white;
+font-family: Trebuchet MS;
+font-size: 20px;
+}
+td
+{
+background-color: #f8f8f3;
+color : black;
+font-family: Trebuchet MS;
+font-size: 18px;
+}
+td#pass
+{
+background-color: green;
+color : white;
+font-family: Trebuchet MS;
+font-size: 18px;
+text-align:center;
+
+}
+td#fail
+{
+background-color: red;
+color : white;
+font-family: Trebuchet MS;
+font-size: 18px;
+text-align:center;
+}
+
+td#skip
+{
+background-color: orange;
+color : white;
+font-family: Trebuchet MS;
+font-size: 18px;
+text-align:center;
+}
+
+div.hidden 
+{ display: none; }
+div.unhidden
+ { display: block; } 
+ 
+div.tctable.active
+ {
+	
+	background-color: #f1f7f9;
+    display: block;
+    float: left;
+    left: 70px;
+    position: relative;
+    top: 150px;
+    width: 90%;
+	
+ }
+ div.tctable
+ {
+	 background-color:#f1f7f9;
+	 top:150px;
+	 position: relative;
+	 width:90%;
+	 float:left;
+	 left: 70px;
+	 display: none;
+	
+ }
+ div.senario
+ {
+	background-color: #f1f7f9;
+	position: relative;
+    left: 80px;
+    top: 80px;
+    width: 80%;
+	display: none;
+	
+ }
+ 
+ 
+ .testsenarios
+	 {
+		display: none;
+		float:left;
+		left:35px;
+		position: absolute;
+        top: 30%;
+        /*left: 10%;*/
+        width: 75%;
+        height: 70%;
+		padding: 5px;
+        background-color: white;
+        z-index:3;
+		
+	 }
+
+
+ /* Light Box Style */
+	
+	#fade{
+		background-color: #000;
+		display: none;
+		height: 100%;
+		left: 0;
+		opacity: 0.7;
+		position: fixed;
+		top: 0;
+		z-index:1;
+		width: 100%;
+	}
+	
+ .testsenarios.white_content 
+	{
+        display: none;
+        position: absolute;
+        top: 12%;
+		left: 10%;
+        width: 85%;
+        height: 80%;
+		padding: 5px;
+        background-color: white;
+        z-index:2;
+        overflow: hidden;
+    }
+
+.close
+{
+		display: none;
+        position: absolute;
+        top: 10px;
+        left: 95%;
+        width: 5%;
+        height: 5%;
+        background-color: white;
+        z-index:4;
+        -moz-opacity: 0.8;
+        opacity:.80;
+        filter: alpha(opacity=80);
+}
+
+/* Moments for TestSenarios Wizard */
+
+.movements
+{
+    width: 100px;
+    height: 100px;
+    background: red;
+    position: relative;
+    -webkit-animation: mymove 0.5s;  /* Safari and Chrome */
+    -webkit-animation-iteration-count: 1;  /* Safari and Chrome */
+    -webkit-animation-fill-mode: forwards;  /* Safari and Chrome */
+    animation: mymove 0.5s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+/* Safari and Chrome */
+@-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {right: 130px;}
+}
+
+@keyframes mymove {
+    from {left: 0px;}
+    to {right: 130px;}
+}
+
+
+/* Graph Styles */
+
+#mpiechart
+{
+	background-color:#f8f8f3;
+	position:relative;
+	top:200px;
+	width:400px;
+	float:right;
+	right:25%;
+	display:block;
+    text-align:center;
+}
+#tpiechart
+{
+	background-color:#f8f8f3;
+	position:relative;
+	top:150px;
+	width:400px;
+	float:right;
+	right:25%;
+	display:block;
+    text-align:center;
+	    
+}
