@@ -65,7 +65,7 @@ public WebDriver setRemoteConfiguration(String domain,String browser,String vers
 	  
 	  if(domain.equalsIgnoreCase("browserstack"))
 	  {	  
-		  final String USERNAME = "kptester1";
+		  final String USERNAME = "uname";
 		  final String AUTOMATE_KEY = "iL4j6vpiuH2rDxXFv2Hd";
 		String URL = "http://" + USERNAME + ":" + AUTOMATE_KEY + "@hub.browserstack.com/wd/hub";
 		
